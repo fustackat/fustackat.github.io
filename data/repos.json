@@ -11,7 +11,8 @@
       "profile": "Java growing (800-2.5k★)",
       "date": "2026-03-26",
       "description": "Apache Solr open-source search software",
-      "recommendation": ""
+      "recommendation": "Apache Solr open-source search software。 目前 1595 顆星，社群認可度持續提升中。 社群活躍度持續上升，是目前值得密切追蹤的中型專案。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "apache/ozone",
@@ -22,7 +23,8 @@
       "profile": "Java growing (800-2.5k★)",
       "date": "2026-03-26",
       "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
-      "recommendation": ""
+      "recommendation": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads。 目前 1185 顆星，社群認可度持續提升中。 社群活躍度持續上升，是目前值得密切追蹤的中型專案。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "bramp/ffmpeg-cli-wrapper",
@@ -33,7 +35,8 @@
       "profile": "Java growing (800-2.5k★)",
       "date": "2026-03-26",
       "description": "Java wrapper around the FFmpeg command line tool",
-      "recommendation": ""
+      "recommendation": "Java wrapper around the FFmpeg command line tool。 目前 1889 顆星，社群認可度持續提升中。 社群活躍度持續上升，是目前值得密切追蹤的中型專案。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "wso2/product-apim",
@@ -44,7 +47,8 @@
       "profile": "Java growing (800-2.5k★)",
       "date": "2026-03-26",
       "description": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.",
-      "recommendation": ""
+      "recommendation": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below。 目前 974 顆星，社群認可度持續提升中。 社群活躍度持續上升，是目前值得密切追蹤的中型專案。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "wso2/product-is",
@@ -55,7 +59,8 @@
       "profile": "Java growing (800-2.5k★)",
       "date": "2026-03-26",
       "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
-      "recommendation": ""
+      "recommendation": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below。 目前 842 顆星，社群認可度持續提升中。 社群活躍度持續上升，是目前值得密切追蹤的中型專案。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "geoserver/geoserver-cloud",
@@ -66,7 +71,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "GeoServer Cloud offers ready to use Spring Boot Apps provided for cloud use as dockerized microservices.",
-      "recommendation": ""
+      "recommendation": "GeoServer Cloud offers ready to use Spring Boot Apps provided for cloud use as dockerized microservices。 雖然 304 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "bos-com/GreenCode",
@@ -77,7 +83,8 @@
       "profile": "historical",
       "date": "2026-01-02",
       "description": "GreenCode: Empowering sustainable agriculture through ICT, innovation, and digital solutions for smarter learning farming",
-      "recommendation": ""
+      "recommendation": "GreenCode: Empowering sustainable agriculture through ICT, innovation, and digital solutions for smarter learning farming。 雖然 0 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-01-02"
     },
     {
       "full_name": "canonical/devpack-for-spring-cli",
@@ -88,7 +95,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Devpack for Spring command line interface application.",
-      "recommendation": ""
+      "recommendation": "Devpack for Spring command line interface application。 雖然 0 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "uPortal-Project/uPortal",
@@ -99,7 +107,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Enterprise open source portal built by and for the higher education community.",
-      "recommendation": ""
+      "recommendation": "Enterprise open source portal built by and for the higher education community。 雖然 282 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "spring-ai-alibaba/DataAgent",
@@ -110,7 +119,8 @@
       "profile": "historical",
       "date": "2026-03-12",
       "description": "Spring AI Alibaba DataAgent",
-      "recommendation": ""
+      "recommendation": "Spring AI Alibaba DataAgent。 目前 1513 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-12"
     },
     {
       "full_name": "SasanLabs/VulnerableApp",
@@ -121,7 +131,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts.",
-      "recommendation": ""
+      "recommendation": "OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts。 雖然 377 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "anakettl/hangar",
@@ -132,7 +143,8 @@
       "profile": "historical",
       "date": "2026-03-16",
       "description": "A Stock Manager",
-      "recommendation": ""
+      "recommendation": "A Stock Manager。 雖然 1 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-16"
     },
     {
       "full_name": "spring-projects-experimental/spring-boot-migrator",
@@ -143,7 +155,8 @@
       "profile": "historical",
       "date": "2024-08-06",
       "description": "Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot",
-      "recommendation": ""
+      "recommendation": "Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot。 雖然 494 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2024-08-06"
     },
     {
       "full_name": "apache/beam",
@@ -154,7 +167,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
-      "recommendation": ""
+      "recommendation": "Apache Beam is a unified programming model for Batch and Streaming data processing。 ⭐ 8526 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "libgdx/libgdx",
@@ -165,7 +179,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Desktop/Android/HTML5/iOS Java game development framework",
-      "recommendation": ""
+      "recommendation": "Desktop/Android/HTML5/iOS Java game development framework。 ⭐ 24947 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "bitcoinj/bitcoinj",
@@ -176,7 +191,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "A library for working with Bitcoin",
-      "recommendation": ""
+      "recommendation": "A library for working with Bitcoin。 ⭐ 5213 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "CatimaLoyalty/Android",
@@ -187,7 +203,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Catima, a Loyalty Card & Ticket Manager for Android",
-      "recommendation": ""
+      "recommendation": "Catima, a Loyalty Card & Ticket Manager for Android。 目前 1538 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "Igalia/wolvic",
@@ -198,7 +215,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "A fast and secure browser for standalone virtual-reality and augmented-reality headsets.",
-      "recommendation": ""
+      "recommendation": "A fast and secure browser for standalone virtual-reality and augmented-reality headsets。 目前 936 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "TeamNewPipe/NewPipe",
@@ -209,7 +227,8 @@
       "profile": "historical",
       "date": "2026-03-22",
       "description": "A libre lightweight streaming front-end for Android.",
-      "recommendation": ""
+      "recommendation": "A libre lightweight streaming front-end for Android。 ⭐ 37652 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-22"
     },
     {
       "full_name": "eddyizm/tempus",
@@ -220,7 +239,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
-      "recommendation": ""
+      "recommendation": "An open source and lightweight music client for Subsonic, designed and built natively for Android。 雖然 779 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "hoo-dles/morphe-patches",
@@ -231,7 +251,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "🍃 Patches for Morphe",
-      "recommendation": ""
+      "recommendation": "🍃 Patches for Morphe。 雖然 227 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "georgewfraser/java-language-server",
@@ -242,7 +263,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Java language server using the Java compiler API",
-      "recommendation": ""
+      "recommendation": "Java language server using the Java compiler API。 雖然 779 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "palantir/gradle-baseline",
@@ -253,7 +275,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "A set of Gradle plugins that configure default code quality tools for developers.",
-      "recommendation": ""
+      "recommendation": "A set of Gradle plugins that configure default code quality tools for developers。 雖然 340 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "magento/magento2-phpstorm-plugin",
@@ -264,7 +287,8 @@
       "profile": "historical",
       "date": "2026-03-22",
       "description": "PHPStorm Plugin for Magento 2",
-      "recommendation": ""
+      "recommendation": "PHPStorm Plugin for Magento 2。 雖然 455 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-22"
     },
     {
       "full_name": "Minecraft-Radiance/Radiance",
@@ -275,7 +299,8 @@
       "profile": "historical",
       "date": "2026-03-21",
       "description": "Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft.",
-      "recommendation": ""
+      "recommendation": "Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft。 目前 889 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-21"
     },
     {
       "full_name": "google/adk-java",
@@ -286,7 +311,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
-      "recommendation": ""
+      "recommendation": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control。 目前 1397 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "Dev4Mod/WaEnhancer",
@@ -297,7 +323,8 @@
       "profile": "historical",
       "date": "2026-03-21",
       "description": "WhatsApp tools for Android",
-      "recommendation": ""
+      "recommendation": "WhatsApp tools for Android。 目前 1318 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-21"
     },
     {
       "full_name": "open-telemetry/opentelemetry-java-instrumentation",
@@ -308,7 +335,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java",
-      "recommendation": ""
+      "recommendation": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java。 累積 2486 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "OpenEMS/openems",
@@ -319,7 +347,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "OpenEMS - Open Source Energy Management System",
-      "recommendation": ""
+      "recommendation": "OpenEMS - Open Source Energy Management System。 目前 1324 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "unitycatalog/unitycatalog",
@@ -330,7 +359,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Open, Multi-modal Catalog for Data & AI",
-      "recommendation": ""
+      "recommendation": "Open, Multi-modal Catalog for Data & AI。 累積 3341 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "apache/fesod",
@@ -341,7 +371,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.",
-      "recommendation": ""
+      "recommendation": "Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM。 ⭐ 5895 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "apache/hugegraph",
@@ -352,7 +383,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)",
-      "recommendation": ""
+      "recommendation": "A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)。 累積 2998 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "crimera/piko",
@@ -363,7 +395,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "morphe patches for twitter",
-      "recommendation": ""
+      "recommendation": "morphe patches for twitter。 累積 2912 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "assertj/assertj",
@@ -374,7 +407,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Fluent testing assertions for Java and the JVM",
-      "recommendation": ""
+      "recommendation": "Fluent testing assertions for Java and the JVM。 累積 2819 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "MorpheApp/morphe-patches",
@@ -385,7 +419,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Morphe Patches",
-      "recommendation": ""
+      "recommendation": "Morphe Patches。 目前 1414 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "1Panel-dev/CordysCRM",
@@ -396,7 +431,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。",
-      "recommendation": ""
+      "recommendation": "🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。。 目前 1967 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "tamboui/tamboui",
@@ -407,7 +443,8 @@
       "profile": "historical",
       "date": "2026-03-21",
       "description": "A Java library for building modern terminal user interfaces.",
-      "recommendation": ""
+      "recommendation": "A Java library for building modern terminal user interfaces。 雖然 366 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-21"
     },
     {
       "full_name": "agentscope-ai/agentscope-java",
@@ -418,7 +455,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
-      "recommendation": ""
+      "recommendation": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications。 累積 2201 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "OpenIntegrationEngine/engine",
@@ -429,7 +467,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "An open source fork of the now closed-source Mirth Connect.   Installers for the engine are in this repository.",
-      "recommendation": ""
+      "recommendation": "An open source fork of the now closed-source Mirth Connect.   Installers for the engine are in this repository。 雖然 165 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "grimmory-tools/grimmory",
@@ -440,7 +479,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Grimmory is the successor of booklore.",
-      "recommendation": ""
+      "recommendation": "Grimmory is the successor of booklore。 目前 1611 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "dedicatedcode/reitti",
@@ -451,7 +491,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name \"Reitti\" comes from Finnish, meaning \"route\" or \"path\".",
-      "recommendation": ""
+      "recommendation": "Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name \"Reitti\" comes from Finnish, meaning \"route\" or \"path\"。 目前 1956 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "apache/polaris",
@@ -462,7 +503,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
-      "recommendation": ""
+      "recommendation": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg。 目前 1886 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "MCRcortex/voxy",
@@ -473,7 +515,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "An LoD rendering mod for minecraft",
-      "recommendation": ""
+      "recommendation": "An LoD rendering mod for minecraft。 目前 843 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "datastax/jvector",
@@ -484,7 +527,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "JVector: the most advanced embedded vector search engine",
-      "recommendation": ""
+      "recommendation": "JVector: the most advanced embedded vector search engine。 目前 1695 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "hardwood-hq/hardwood",
@@ -495,7 +539,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "A fast minimal dependency implementation of Apache Parquet",
-      "recommendation": ""
+      "recommendation": "A fast minimal dependency implementation of Apache Parquet。 雖然 224 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "trinodb/trino-gateway",
@@ -506,7 +551,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "",
-      "recommendation": ""
+      "recommendation": "雖然 248 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "BentoBoxWorld/BentoBox",
@@ -517,7 +563,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.",
-      "recommendation": ""
+      "recommendation": "Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland。 雖然 392 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "ArcadeData/arcadedb",
@@ -528,7 +575,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
-      "recommendation": ""
+      "recommendation": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings。 雖然 764 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "open-telemetry/opentelemetry-java",
@@ -539,7 +587,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "OpenTelemetry Java SDK",
-      "recommendation": ""
+      "recommendation": "OpenTelemetry Java SDK。 累積 2373 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "googleapis/google-api-java-client-services",
@@ -550,7 +599,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Generated Java code for Google APIs",
-      "recommendation": ""
+      "recommendation": "Generated Java code for Google APIs。 雖然 717 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "kroxylicious/kroxylicious",
@@ -561,7 +611,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Kroxylicious, the snappy open source proxy for Apache Kafka®",
-      "recommendation": ""
+      "recommendation": "Kroxylicious, the snappy open source proxy for Apache Kafka®。 雖然 261 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "lf-lang/lingua-franca",
@@ -572,7 +623,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "Intuitive concurrent programming in any language",
-      "recommendation": ""
+      "recommendation": "Intuitive concurrent programming in any language。 雖然 293 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "cinchapi/concourse",
@@ -583,7 +635,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Distributed database warehouse for transactions, search and analytics across time.",
-      "recommendation": ""
+      "recommendation": "Distributed database warehouse for transactions, search and analytics across time。 雖然 315 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "umple/umple",
@@ -594,7 +647,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems. Save yourself lots of coding. Do it collaboratively online in UmpleOnline, in an IDE or on the command line.",
-      "recommendation": ""
+      "recommendation": "Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems. Save yourself lots of coding. Do it collaboratively online in UmpleOnline, in an IDE or on the command line。 雖然 275 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "apache/fluss",
@@ -605,7 +659,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Apache Fluss is a streaming storage built for real-time analytics.",
-      "recommendation": ""
+      "recommendation": "Apache Fluss is a streaming storage built for real-time analytics。 目前 1831 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "besu-eth/besu",
@@ -616,7 +671,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
-      "recommendation": ""
+      "recommendation": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu。 目前 1786 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "TimefoldAI/timefold-solver",
@@ -627,7 +683,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "recommendation": ""
+      "recommendation": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems。 目前 1611 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "itext/itext-java",
@@ -638,7 +695,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow.",
-      "recommendation": ""
+      "recommendation": "iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow。 累積 2224 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "Card-Forge/forge",
@@ -649,7 +707,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "An unofficial rules engine for the world's greatest card game.",
-      "recommendation": ""
+      "recommendation": "An unofficial rules engine for the world's greatest card game。 累積 2245 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "opentripplanner/OpenTripPlanner",
@@ -660,7 +719,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "An open source multi-modal trip planner",
-      "recommendation": ""
+      "recommendation": "An open source multi-modal trip planner。 累積 2584 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "Azure/azure-sdk-for-java",
@@ -671,7 +731,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ",
-      "recommendation": ""
+      "recommendation": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. 。 累積 2560 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "spring-projects/spring-batch",
@@ -682,7 +743,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "Spring Batch is a framework for writing batch applications using Java and Spring",
-      "recommendation": ""
+      "recommendation": "Spring Batch is a framework for writing batch applications using Java and Spring。 累積 2930 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "apache/pinot",
@@ -693,7 +755,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Apache Pinot - A realtime distributed OLAP datastore",
-      "recommendation": ""
+      "recommendation": "Apache Pinot - A realtime distributed OLAP datastore。 ⭐ 6049 顆星的高人氣見證了其在 Java 生態中的重要地位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "camunda/camunda",
@@ -704,7 +767,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Process Orchestration Framework",
-      "recommendation": ""
+      "recommendation": "Process Orchestration Framework。 累積 4055 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "a2aproject/a2a-java",
@@ -715,7 +779,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Official Java SDK for the Agent2Agent (A2A) Protocol",
-      "recommendation": ""
+      "recommendation": "Official Java SDK for the Agent2Agent (A2A) Protocol。 雖然 368 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "wanaku-ai/wanaku",
@@ -726,7 +791,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Wanaku MCP Router",
-      "recommendation": ""
+      "recommendation": "Wanaku MCP Router。 雖然 106 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "quarkiverse/quarkus-roq",
@@ -737,7 +803,8 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers.",
-      "recommendation": ""
+      "recommendation": "The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers。 雖然 101 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-23"
     },
     {
       "full_name": "operaton/operaton",
@@ -748,7 +815,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "BPMN-Process automation for everyone ",
-      "recommendation": ""
+      "recommendation": "BPMN-Process automation for everyone 。 雖然 377 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "AidanPark/openclaw-android",
@@ -759,7 +827,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
-      "recommendation": ""
+      "recommendation": "Run OpenClaw on Android with a single command — no proot, no Linux。 雖然 759 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "KiltMC/Kilt",
@@ -770,7 +839,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "A Fabric mod that brings Forge mods into the Fabric ecosystem.",
-      "recommendation": ""
+      "recommendation": "A Fabric mod that brings Forge mods into the Fabric ecosystem。 雖然 654 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "neoforged/NeoForge",
@@ -781,7 +851,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Neo Modding API for Minecraft: Java Edition, based on Forge",
-      "recommendation": ""
+      "recommendation": "Neo Modding API for Minecraft: Java Edition, based on Forge。 目前 1847 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "akto-api-security/akto",
@@ -792,7 +863,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure",
-      "recommendation": ""
+      "recommendation": "Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure。 目前 1455 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "SAP/abap-cleaner",
@@ -803,7 +875,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "ABAP cleaner applies 100+ cleanup rules to ABAP code at a single keystroke",
-      "recommendation": ""
+      "recommendation": "ABAP cleaner applies 100+ cleanup rules to ABAP code at a single keystroke。 雖然 608 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "pgjdbc/pgjdbc",
@@ -814,7 +887,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Postgresql JDBC Driver",
-      "recommendation": ""
+      "recommendation": "Postgresql JDBC Driver。 目前 1696 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "GoogleCloudPlatform/DataflowTemplates",
@@ -825,7 +899,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Cloud Dataflow Google-provided templates for solving in-Cloud data tasks",
-      "recommendation": ""
+      "recommendation": "Cloud Dataflow Google-provided templates for solving in-Cloud data tasks。 目前 1290 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "vaadin/flow",
@@ -836,7 +911,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.",
-      "recommendation": ""
+      "recommendation": "Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+。 雖然 737 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "apache/gobblin",
@@ -847,7 +923,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
-      "recommendation": ""
+      "recommendation": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems。 累積 2260 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "Canner/wren-engine",
@@ -858,7 +935,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "The open context engine for AI agents support 15+ data sources. MCP-native. Built on Rust and Apache DataFusion.",
-      "recommendation": ""
+      "recommendation": "The open context engine for AI agents support 15+ data sources. MCP-native. Built on Rust and Apache DataFusion。 雖然 599 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "jenkinsci/git-plugin",
@@ -869,7 +947,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Git repository access for Jenkins jobs",
-      "recommendation": ""
+      "recommendation": "Git repository access for Jenkins jobs。 雖然 688 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "uyuni-project/uyuni",
@@ -880,7 +959,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Source code for Uyuni",
-      "recommendation": ""
+      "recommendation": "Source code for Uyuni。 雖然 548 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "aws-amplify/amplify-android",
@@ -891,7 +971,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The fastest and easiest way to use AWS from your Android app.",
-      "recommendation": ""
+      "recommendation": "The fastest and easiest way to use AWS from your Android app。 雖然 282 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "gravitee-io/gravitee-api-management",
@@ -902,7 +983,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Gravitee.io - OpenSource API Management",
-      "recommendation": ""
+      "recommendation": "Gravitee.io - OpenSource API Management。 雖然 397 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "umeng/MultiFunctionAndroidDemo",
@@ -913,7 +995,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "友盟多功能Android Demo",
-      "recommendation": ""
+      "recommendation": "友盟多功能Android Demo。 雖然 404 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "anonfaded/FadCam",
@@ -924,7 +1007,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
-      "recommendation": ""
+      "recommendation": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control。 目前 1677 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "GrapheneOS/PdfViewer",
@@ -935,7 +1019,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
-      "recommendation": ""
+      "recommendation": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static。 目前 921 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "GrapheneOS/Camera",
@@ -946,7 +1031,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
-      "recommendation": ""
+      "recommendation": "Modern camera app focused on privacy and security with QR & barcode scanning。 目前 1253 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "OpenLiberty/open-liberty",
@@ -957,7 +1043,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Open Liberty is a highly composable, fast to start, dynamic application server runtime environment ",
-      "recommendation": ""
+      "recommendation": "Open Liberty is a highly composable, fast to start, dynamic application server runtime environment 。 目前 1241 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "odpi/egeria",
@@ -968,7 +1055,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Egeria core",
-      "recommendation": ""
+      "recommendation": "Egeria core。 目前 899 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "eclipse-collections/eclipse-collections",
@@ -979,7 +1067,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.",
-      "recommendation": ""
+      "recommendation": "Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API。 累積 2624 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "aws/aws-sdk-java-v2",
@@ -990,7 +1079,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The official AWS SDK for Java - Version 2",
-      "recommendation": ""
+      "recommendation": "The official AWS SDK for Java - Version 2。 累積 2561 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "tlaplus/tlaplus",
@@ -1001,7 +1091,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.   ",
-      "recommendation": ""
+      "recommendation": "TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.   。 累積 2842 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "androidx/media",
@@ -1012,7 +1103,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
-      "recommendation": ""
+      "recommendation": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android。 累積 2736 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "Querz/mcaselector",
@@ -1023,7 +1115,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "A tool to select chunks from Minecraft worlds for deletion or export.",
-      "recommendation": ""
+      "recommendation": "A tool to select chunks from Minecraft worlds for deletion or export。 累積 4364 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "patryk3211/PowerGrid",
@@ -1034,7 +1127,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Providing electricity to a world near you.",
-      "recommendation": ""
+      "recommendation": "Providing electricity to a world near you。 雖然 118 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "Open-J-Proxy/ojp",
@@ -1045,7 +1139,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "",
-      "recommendation": ""
+      "recommendation": "雖然 193 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "appdevforall/CodeOnTheGo",
@@ -1056,7 +1151,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All. ",
-      "recommendation": ""
+      "recommendation": "Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All. 。 雖然 116 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "MojoLauncher/MojoLauncher",
@@ -1067,7 +1163,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
-      "recommendation": ""
+      "recommendation": "A Minecraft: Java Edition launcher, based on PojavLauncher。 雖然 411 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "hectorvent/floci",
@@ -1078,7 +1175,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Light, fluffy, and always free - AWS Local Emulator ",
-      "recommendation": ""
+      "recommendation": "Light, fluffy, and always free - AWS Local Emulator 。 目前 1769 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "apache/gravitino",
@@ -1089,7 +1187,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
-      "recommendation": ""
+      "recommendation": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake。 累積 2925 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "quik-sms/quik",
@@ -1100,7 +1199,8 @@
       "profile": "historical",
       "date": "2026-03-24",
       "description": "The most beautiful SMS messenger for Android - Revived",
-      "recommendation": ""
+      "recommendation": "The most beautiful SMS messenger for Android - Revived。 累積 2227 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-24"
     },
     {
       "full_name": "Xed-Editor/Xed-Editor",
@@ -1111,7 +1211,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Advanced Text Editor for Android ",
-      "recommendation": ""
+      "recommendation": "Advanced Text Editor for Android 。 目前 1805 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "epam/ai-dial-core",
@@ -1122,7 +1223,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications",
-      "recommendation": ""
+      "recommendation": "The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications。 雖然 658 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "ReChronoRain/HyperCeiler",
@@ -1133,7 +1235,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "HyperOS enhancement module - Make HyperOS Great Again!",
-      "recommendation": ""
+      "recommendation": "HyperOS enhancement module - Make HyperOS Great Again!。 累積 4548 顆星，在同類工具中具有相當競爭力。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "xtclang/xvm",
@@ -1144,7 +1247,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Ecstasy and XVM",
-      "recommendation": ""
+      "recommendation": "Ecstasy and XVM。 雖然 210 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "typetools/checker-framework",
@@ -1155,7 +1259,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Pluggable type-checking for Java",
-      "recommendation": ""
+      "recommendation": "Pluggable type-checking for Java。 目前 1134 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "vaadin/hilla",
@@ -1166,7 +1271,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development.",
-      "recommendation": ""
+      "recommendation": "Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development。 目前 980 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "microcks/microcks",
@@ -1177,7 +1283,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀",
-      "recommendation": ""
+      "recommendation": "The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀。 目前 1843 顆星，社群認可度持續提升中。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "lsfusion/platform",
@@ -1188,7 +1295,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "lsFusion is an extremely declarative open-source language-based platform for information systems development ",
-      "recommendation": ""
+      "recommendation": "lsFusion is an extremely declarative open-source language-based platform for information systems development 。 雖然 203 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "DIGI-UW/OpenELIS-Global-2",
@@ -1199,7 +1307,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "This is the core repo for OpenELIS global v3",
-      "recommendation": ""
+      "recommendation": "This is the core repo for OpenELIS global v3。 雖然 208 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "temporalio/sdk-java",
@@ -1210,7 +1319,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Temporal Java SDK",
-      "recommendation": ""
+      "recommendation": "Temporal Java SDK。 雖然 358 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     },
     {
       "full_name": "deephaven/deephaven-core",
@@ -1221,7 +1331,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "Deephaven Community Core",
-      "recommendation": ""
+      "recommendation": "Deephaven Community Core。 雖然 345 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "dogtagpki/pki",
@@ -1232,7 +1343,8 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.",
-      "recommendation": ""
+      "recommendation": "The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management。 雖然 483 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-25"
     },
     {
       "full_name": "microsoft/ApplicationInsights-Java",
@@ -1243,7 +1355,8 @@
       "profile": "historical",
       "date": "2026-03-26",
       "description": "Application Insights for Java",
-      "recommendation": ""
+      "recommendation": "Application Insights for Java。 雖然 320 顆星尚屬小眾，但有其獨特的技術定位。 具歷史意義的老牌專案，雖然活躍度趨緩，但仍有大量實際應用場景。",
+      "recommendation_date": "2026-03-26"
     }
   ]
 }
