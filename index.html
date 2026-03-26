@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🔍 Java Repo Hunter — Curated by AI</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🔍 Java Repo Hunter — Curated by AI</h1>
+    <span id="last-updated">Loading...</span>
+  </header>
+  <main>
+    <div id="stats"></div>
+    <div id="cards-grid"></div>
+  </main>
+
+  <script>
+    function formatDate(dateStr) {
+      if (!dateStr) return '—';
+      const d = new Date(dateStr);
+      return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'short' });
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function renderCard(repo) {
+      const shortName = repo.full_name.split('/')[1] || repo.full_name;
+      return `
+        <div class="card">
+          <div class="card-header">
+            <div class="card-title">
+              <a href="${escapeHtml(repo.url)}" target="_blank" rel="noopener">${escapeHtml(repo.full_name)}</a>
+            </div>
+            ${repo.profile ? `<span class="card-profile">${escapeHtml(repo.profile)}</span>` : ''}
+          </div>
+          ${repo.description ? `<div class="card-desc">${escapeHtml(repo.description)}</div>` : ''}
+          <div class="card-meta">
+            <span>⭐ ${repo.stars?.toLocaleString() ?? '—'}</span>
+            <span>🐛 ${repo.open_issues?.toLocaleString() ?? '—'}</span>
+            <span>📅 ${formatDate(repo.created_at)}</span>
+            ${repo.date ? `<span>🔄 ${repo.date}</span>` : ''}
+          </div>
+          ${repo.recommendation ? `<div class="card-recommendation">💡 ${escapeHtml(repo.recommendation)}</div>` : ''}
+        </div>`;
+    }
+
+    async function load() {
+      try {
+        const res = await fetch('data/repos.json?_=' + Date.now());
+        const data = await res.json();
+
+        document.getElementById('last-updated').textContent =
+          'Last updated: ' + new Date(data.lastUpdated).toLocaleString('zh-TW');
+
+        const stats = document.getElementById('stats');
+        stats.innerHTML = `
+          <div class="stat-badge">📦 <strong>${data.recommendations.length}</strong> repos curated</div>
+          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>`;
+
+        const grid = document.getElementById('cards-grid');
+        if (!data.recommendations || data.recommendations.length === 0) {
+          grid.innerHTML = `<div class="empty-state"><h2>🚀 No recommendations yet</h2><p>Run the repo hunter to populate this page.</p></div>`;
+          return;
+        }
+        grid.innerHTML = data.recommendations.map(renderCard).join('');
+      } catch (e) {
+        document.getElementById('cards-grid').innerHTML =
+          `<div class="empty-state"><h2>❌ Failed to load data</h2><p>${e.message}</p></div>`;
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>
