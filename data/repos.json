@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-03-26T05:19:07.086Z",
-  "totalSeen": 114,
+  "lastUpdated": "2026-03-26T06:04:21.109Z",
+  "totalSeen": 119,
   "recommendations": [
+    {
+      "full_name": "firebase/firebase-android-sdk",
+      "url": "https://github.com/firebase/firebase-android-sdk",
+      "stars": 2501,
+      "open_issues": 374,
+      "created_at": "2018-08-31",
+      "profile": "Java established (2.5k-8k★)",
+      "date": "2026-03-26",
+      "description": "Firebase Android SDK",
+      "recommendation": "Firebase Android SDK。 近期活躍 issues：FirePerf E2E Test Failures; Data Connect Integration Tests; Data Connect Demo App Nightly。 社群關注度高，已有一定影響力。",
+      "recommendation_date": "2026-03-26"
+    },
+    {
+      "full_name": "apache/calcite",
+      "url": "https://github.com/apache/calcite",
+      "stars": 5103,
+      "open_issues": 327,
+      "created_at": "2014-06-25",
+      "profile": "Java established (2.5k-8k★)",
+      "date": "2026-03-26",
+      "description": "Apache Calcite",
+      "recommendation": "Apache Calcite。 近期活躍 issues：Add PostGIS Dialect; Expand ProjectJoinRemoveRule; Eliminates common expressions。 社群關注度高，已有一定影響力。",
+      "recommendation_date": "2026-03-26"
+    },
+    {
+      "full_name": "apache/hbase",
+      "url": "https://github.com/apache/hbase",
+      "stars": 5581,
+      "open_issues": 363,
+      "created_at": "2014-05-23",
+      "profile": "Java established (2.5k-8k★)",
+      "date": "2026-03-26",
+      "description": "Apache HBase",
+      "recommendation": "Apache HBase。 近期活躍 issues：Control WAL flush; Add row-level cache for get operation; Add cost function in balancer。 社群關注度高，已有一定影響力。",
+      "recommendation_date": "2026-03-26"
+    },
+    {
+      "full_name": "apache/fory",
+      "url": "https://github.com/apache/fory",
+      "stars": 4287,
+      "open_issues": 158,
+      "created_at": "2023-04-28",
+      "profile": "Java established (2.5k-8k★)",
+      "date": "2026-03-26",
+      "description": "A blazingly fast multi-language serialization framework powered by JIT and zero-copy.",
+      "recommendation": "A blazingly fast multi-language serialization framework powered by JIT and zero-copy。 近期活躍 issues：Add JS/TS IDL code generation; Align object array to collection serialization; support copy non-serializable objects。 社群關注度高，已有一定影響力。",
+      "recommendation_date": "2026-03-26"
+    },
+    {
+      "full_name": "apache/hudi",
+      "url": "https://github.com/apache/hudi",
+      "stars": 6124,
+      "open_issues": 4012,
+      "created_at": "2016-12-14",
+      "profile": "Java established (2.5k-8k★)",
+      "date": "2026-03-26",
+      "description": "Upserts, Deletes And Incremental Processing on Big Data.",
+      "recommendation": "Upserts, Deletes And Incremental Processing on Big Data。 近期活躍 issues：Add Unshredded Variant read & write support; RFC-103 Hudi LSM Tree Layout; Create JsonKinesisSource。 社群關注度高，已有一定影響力。",
+      "recommendation_date": "2026-03-26"
+    },
     {
       "full_name": "apache/solr",
       "url": "https://github.com/apache/solr",
