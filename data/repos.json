@@ -13,7 +13,7 @@
       "description": "Flink Agents is an Agentic AI framework based on Apache Flink",
       "hot_issues_summary": "[plan] Extract ResourceCache and PythonResourceBridge from AgentPlan; [Feature] Simplify the custom event definition.; Cross Language Unified Event",
       "readme_snippet": "# Apache Flink Agents\n\nApache Flink Agents is an Agentic AI framework based on Apache Flink.\n\n[User Documentation](https://nightlies.apache.org/flink/flink-agents-docs-main/)\n\n## Building\n\nPrerequisit",
-      "recommendation": ""
+      "recommendation": "AI Agent + 串流處理的交叉領域，技術方向極具前瞻性。2025 年 6 月才建立，不到一年已有 334 stars，Apache 背書，有 Slack 社群。issues 僅 40 個且管理清晰，近期版本（0.3.0）正在積極開發中，有 priority/major 標籤的任務清楚標示重要性。現在進場是在這個新興框架留下早期貢獻者足跡的最佳時機。"
     },
     {
       "full_name": "cibseven/cibseven",
@@ -26,7 +26,7 @@
       "description": "CIB seven main source code repository",
       "hot_issues_summary": "Add SCIM 2.0 Identity Provider plugin with comprehensive tests; OAuth2 login keeps redirecting back to login page with cibseven 2.0.0 / 2.1.0-alpha; Embedded forms deployed via modeler not working in Tasklist",
       "readme_snippet": "# CIB seven - The open source BPMN platform\n\n[![cibseven manual latest](https://img.shields.io/badge/manual-latest-brown.svg)](https://docs.cibseven.org/manual/latest/) [![License](https://img.shields",
-      "recommendation": ""
+      "recommendation": "BPMN 工作流程引擎是企業自動化的核心基礎設施，市場需求穩定。issues 僅 37 個，社群小但有 GitHub Discussions 溝通管道。OAuth2 登入 bug（#153，17 則留言）和嵌入式表單問題（#94）都是影響用戶體驗的實際痛點，修復後能直接被用戶感謝。SCIM 2.0 外掛（#214）則是有企業採用價值的功能擴展。"
     },
     {
       "full_name": "LianjiaTech/bella-openapi",
@@ -39,7 +39,7 @@
       "description": "Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天补全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集���了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。",
       "hot_issues_summary": "特性：responses api 实现方式扩展; 特性：扩展Video Endpoint能力; feat: add worker stream timestamp",
       "readme_snippet": "# Bella OpenAPI\n\n[![Static Badge](https://img.shields.io/badge/docs-more-yellow?style=flat-square)](https://doc.bella.top/)\n[![Static Badge](https://img.shields.io/badge/wiki-deep-blue?style=flat-squa",
-      "recommendation": ""
+      "recommendation": "鏈家（Lianjia）開源的 AI API 閘道，功能類似 OpenRouter，但更全面——除了聊天補全外，還整合文字向量化、語音識別（ASR）、語音合成（TTS）、文生圖、圖生圖等多種 AI 能力，並內建計費、限流與資源管理，所有功能均經過大規模生產環境驗證。中國頭部房地產平台的生產級 AI 基礎設施開源，技術棧覆蓋廣（OpenAI、Azure、DeepSeek、Bedrock、Volcengine），有線上體驗環境。issues 僅 33 個，有 contributor-guide，社群歡迎貢獻。"
     },
     {
       "full_name": "spring-ai-alibaba/spring-ai-extensions",
@@ -52,7 +52,7 @@
       "description": "",
       "hot_issues_summary": "修复服务方法描述等更新网关 gateway tool list 不更新的问题; [BUG] Nacos 存量转化 Mcp Server 接入报错; [Feature] Upgrade Spring AI 2.x.x and Spring Boot 4.x",
       "readme_snippet": "# Alibaba Extensions for Spring AI\n\nThis project builds upon Spring AI, providing extended implementations of core concepts such as `ChatModel`, `ImageModel`, `AudioModel`, `MCP`, `DocumentParser`, `C",
-      "recommendation": ""
+      "recommendation": "Spring AI 生態的阿里雲擴展，對使用阿里雲服務的 Java 開發者有直接實用價值。Spring AI 2.x + Spring Boot 4 升級（#91）是時機點絕佳的貢獻機會——Spring Boot 4 剛發布，搶先完成這個 issue 能在 Spring 生態留下明確足跡。issues 僅 17 個，社群規模小，貢獻被看見的機率高。"
     },
     {
       "full_name": "future0923/debug-tools",
@@ -65,7 +65,7 @@
       "description": "热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl, Groovy.）",
       "hot_issues_summary": "Quick Debug 参数反序列化方式以及 JSON 结果的序列话方式建议使用本地项目中指定类的序列化方式; 项目使用apollo在启动的使用读取数据库的配置报错; 在IDEA中使用Tomcat运行时报错",
       "readme_snippet": "<br/>\n\n<p align=\"center\">\n    <a href=\"https://github.com/future0923/debug-tools/blob/main/README.md\">\n      中文\n    </a>\n    |\n    <a href=\"https://github.com/future0923/debug-tools/blob/main/README-e",
-      "recommendation": ""
+      "recommendation": "整合於 IntelliJ IDEA 的 Java 開發效率插件，支援熱部署（類似 JRebel）、呼叫任意 Java 方法（類似 API 工具）、打印 SQL 耗時、執行 Groovy 腳本與搜尋 HTTP 地址，大幅縮短 Java 除錯週期。開發者工具類專案，每個 Java 開發者都是潛在用戶。2025 年 6 月建立，244 stars 成長不錯，issues 僅 16 個管理乾淨，技術棧是 IDEA 插件開發 + Java Agent，小眾但在開發工具圈很有辨識度。"
     },
     {
       "full_name": "firebase/firebase-android-sdk",
