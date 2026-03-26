@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-03-26T12:04:05.443Z",
-  "totalSeen": 124,
+  "lastUpdated": "2026-03-26T18:02:00.000Z",
+  "totalSeen": 134,
   "recommendations": [
+    {
+      "full_name": "helge17/tuxguitar",
+      "url": "https://github.com/helge17/tuxguitar",
+      "stars": 1183,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Open source guitar tablature editor",
+      "recommendation": "開源吉他指法（tablature）編輯器，Java Swing 桌面應用，支援跨平台。這類利基工具社群小但使用者黏性高，issues 多為 UI 改善和格式支援。對想學習桌面 GUI 開發或音樂應用的人有意思，但整體技術影響力有限。"
+    },
+    {
+      "full_name": "iflytek/astron-rpa",
+      "url": "https://github.com/iflytek/astron-rpa",
+      "stars": 7372,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Agent-ready RPA suite with out-of-the-box automation tools",
+      "recommendation": "科大訊飛出品的 Agent-ready RPA 框架，7000+ stars 說明中文 AI 社群接受度高。RPA + AI Agent 的整合方向很有市場，但這類中國大廠開源專案維護節奏和社群透明度有時不穩定，建議先觀察 issue 回應速度再決定投入程度。"
+    },
+    {
+      "full_name": "dylibso/chicory",
+      "url": "https://github.com/dylibso/chicory",
+      "stars": 1038,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Native JVM WebAssembly runtime",
+      "recommendation": "純 JVM 的 WebAssembly runtime，不依賴 native 庫，用純 Java 解釋執行 Wasm bytecode。這個技術定位很獨特——讓 JVM 應用程式能安全地執行不受信任的 Wasm 模組，類似 wasmtime 但在 JVM 生態內。1000+ stars 成長穩健，是個技術上有深度的新興專案，適合對 runtime 實作有興趣的人。"
+    },
+    {
+      "full_name": "ReaJason/MemShellParty",
+      "url": "https://github.com/ReaJason/MemShellParty",
+      "stars": 1383,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Java 主流 Web 中間件的內存馬快速生成工具",
+      "recommendation": "Java Web 中間件記憶體馬（MemShell）生成工具，屬於滲透測試/紅隊工具。技術本身展示了 JVM class loading 和 servlet 容器的深層機制，有學習價值。但這類安全工具的 contribution 需要謹慎評估，不建議作為主要貢獻目標。"
+    },
+    {
+      "full_name": "CleanroomMC/Cleanroom",
+      "url": "https://github.com/CleanroomMC/Cleanroom",
+      "stars": 554,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Cleanroom Minecraft",
+      "recommendation": "Minecraft 1.12.2 的現代化 fork，目標是讓老版 mod 在現代 Java 環境運行。Minecraft mod 社群很活躍但技術範疇侷限，適合對 JVM 相容性和 legacy code 維護有興趣的人，但不是通用 Java 技能的最佳展示場。"
+    },
+    {
+      "full_name": "NationalSecurityAgency/datawave",
+      "url": "https://github.com/NationalSecurityAgency/datawave",
+      "stars": 673,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "DataWave is an ingest/query framework that leverages Apache Accumulo",
+      "recommendation": "NSA 開源的大規模資料攝取/查詢框架，基於 Apache Accumulo（Bigtable 架構的 key-value store）。政府機構出品、有明確的大數據安全分析用途。673 stars 說明相對小眾，但技術棧紮實，適合對 Apache 生態和安全資料處理有興趣的人，issue 門檻不低。"
+    },
+    {
+      "full_name": "spring-projects/spring-integration",
+      "url": "https://github.com/spring-projects/spring-integration",
+      "stars": 1623,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Spring Integration provides an extension of the Spring programming model",
+      "recommendation": "Spring 官方的企業整合框架，實作 Enterprise Integration Patterns（EIP）——message channels、transformers、routers 等。這是 Spring 生態裡存在很久的成熟框架，被大量企業用於系統整合。1600+ stars 但實際使用量遠超過，維護由 Spring 團隊主導，貢獻 PR 有較高的技術門檻和審查標準。適合想深入了解訊息驅動架構的人。"
+    },
+    {
+      "full_name": "xwiki/xwiki-platform",
+      "url": "https://github.com/xwiki/xwiki-platform",
+      "stars": 1224,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "The XWiki platform",
+      "recommendation": "老牌開源 Wiki 和內容管理平台，有完整的插件生態和 Groovy scripting 支援。1200+ stars 但實際企業用戶不少（尤其歐洲）。專案存在超過 15 年，codebase 龐大複雜，新手入門不易，但有明確的 newcomer issues 和 mentoring 文化，適合有耐心的長期貢獻者。"
+    },
+    {
+      "full_name": "terrakube-io/terrakube",
+      "url": "https://github.com/terrakube-io/terrakube",
+      "stars": 864,
+      "open_issues": 0,
+      "created_at": "2024-01-01",
+      "profile": "Java mid-range (200-3k★)",
+      "date": "2026-03-26",
+      "description": "Open source IaC Automation and Collaboration Software",
+      "recommendation": "開源的 Terraform/OpenTofu 協作平台，定位類似 Terraform Cloud 的自托管替代方案，提供遠端執行、狀態管理、審批流程等功能。IaC 工具鏈這個方向需求實在，864 stars 的規模說明社群在成長中，issues 以功能開發為主，適合熟悉 Kubernetes 和雲端基礎設施的 Java 開發者。"
+    },
     {
       "full_name": "apache/flink-agents",
       "url": "https://github.com/apache/flink-agents",
