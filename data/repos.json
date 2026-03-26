@@ -1,5 +1,61 @@
 {
-  "lastUpdated": "2026-03-26T00:00:00Z",
-  "totalSeen": 109,
-  "recommendations": []
+  "lastUpdated": "2026-03-26T05:17:31.666Z",
+  "totalSeen": 114,
+  "recommendations": [
+    {
+      "full_name": "apache/solr",
+      "url": "https://github.com/apache/solr",
+      "stars": 1595,
+      "open_issues": 275,
+      "created_at": "2021-02-23",
+      "profile": "Java growing (800-2.5k★)",
+      "date": "2026-03-26",
+      "description": "Apache Solr open-source search software",
+      "recommendation": ""
+    },
+    {
+      "full_name": "apache/ozone",
+      "url": "https://github.com/apache/ozone",
+      "stars": 1185,
+      "open_issues": 73,
+      "created_at": "2019-10-02",
+      "profile": "Java growing (800-2.5k★)",
+      "date": "2026-03-26",
+      "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+      "recommendation": ""
+    },
+    {
+      "full_name": "bramp/ffmpeg-cli-wrapper",
+      "url": "https://github.com/bramp/ffmpeg-cli-wrapper",
+      "stars": 1889,
+      "open_issues": 65,
+      "created_at": "2014-02-15",
+      "profile": "Java growing (800-2.5k★)",
+      "date": "2026-03-26",
+      "description": "Java wrapper around the FFmpeg command line tool",
+      "recommendation": ""
+    },
+    {
+      "full_name": "wso2/product-apim",
+      "url": "https://github.com/wso2/product-apim",
+      "stars": 974,
+      "open_issues": 661,
+      "created_at": "2014-06-11",
+      "profile": "Java growing (800-2.5k★)",
+      "date": "2026-03-26",
+      "description": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.",
+      "recommendation": ""
+    },
+    {
+      "full_name": "wso2/product-is",
+      "url": "https://github.com/wso2/product-is",
+      "stars": 842,
+      "open_issues": 1529,
+      "created_at": "2014-04-21",
+      "profile": "Java growing (800-2.5k★)",
+      "date": "2026-03-26",
+      "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
+      "recommendation": ""
+    }
+  ]
 }
