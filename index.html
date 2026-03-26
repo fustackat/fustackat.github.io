@@ -4,19 +4,185 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>🔍 Java Repo Hunter — Curated by AI</title>
-  <link rel="stylesheet" href="style.css" />
+  <style>
+    :root {
+      --bg: #0f1117;
+      --surface: #1a1d27;
+      --surface-hover: #22263a;
+      --border: #2a2d3e;
+      --accent: #4f8ef7;
+      --accent2: #a78bfa;
+      --text: #e2e8f0;
+      --text-dim: #94a3b8;
+      --text-muted: #64748b;
+      --green: #34d399;
+      --yellow: #fbbf24;
+      --red: #f87171;
+      --radius: 12px;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      min-height: 100vh;
+    }
+    header {
+      background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%);
+      border-bottom: 1px solid var(--border);
+      padding: 24px 32px;
+      position: sticky; top: 0; z-index: 100;
+      backdrop-filter: blur(10px);
+    }
+    .header-top { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+    header h1 { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
+    #last-updated { font-size: 0.8rem; color: var(--text-muted); }
+    .controls {
+      display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap; align-items: center;
+    }
+    .search-box {
+      flex: 1; min-width: 200px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+    .search-box:focus { border-color: var(--accent); }
+    .profile-select {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      color: var(--text);
+      font-size: 0.9rem;
+      outline: none;
+      cursor: pointer;
+      transition: border-color 0.2s;
+    }
+    .profile-select:focus { border-color: var(--accent); }
+    main { max-width: 1400px; margin: 0 auto; padding: 24px 20px; }
+    #stats {
+      display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap;
+    }
+    .stat-badge {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 0.85rem;
+      color: var(--text-dim);
+    }
+    #filter-count { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 16px; }
+    #cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 16px;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 18px;
+      display: flex; flex-direction: column; gap: 10px;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+      position: relative;
+    }
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: var(--accent);
+      box-shadow: 0 8px 30px rgba(79, 142, 247, 0.15);
+    }
+    .card.no-rec {
+      background: #14161f;
+      border-color: #1e2030;
+      opacity: 0.75;
+    }
+    .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .card-title a {
+      font-size: 1.05rem; font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      word-break: break-all;
+    }
+    .card-title a:hover { text-decoration: underline; }
+    .card-profile {
+      font-size: 0.7rem;
+      background: rgba(167,139,250,0.15);
+      color: var(--accent2);
+      border: 1px solid rgba(167,139,250,0.3);
+      border-radius: 20px;
+      padding: 3px 8px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .card-desc {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      line-height: 1.4;
+    }
+    .card-meta {
+      display: flex; gap: 10px; flex-wrap: wrap;
+      font-size: 0.8rem; color: var(--text-dim);
+    }
+    .card-meta span { white-space: nowrap; }
+    .card-recommendation {
+      background: rgba(79,142,247,0.08);
+      border-left: 3px solid var(--accent);
+      border-radius: 0 6px 6px 0;
+      padding: 10px 12px;
+      font-size: 0.85rem;
+      color: var(--text);
+      line-height: 1.55;
+      flex: 1;
+    }
+    .card-no-rec {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+      font-style: italic;
+      padding: 6px 0;
+    }
+    .card-footer {
+      display: flex; justify-content: flex-end;
+      font-size: 0.72rem; color: var(--text-muted);
+      margin-top: auto;
+    }
+    .empty-state {
+      grid-column: 1/-1;
+      text-align: center; padding: 60px 20px; color: var(--text-muted);
+    }
+    .empty-state h2 { font-size: 1.3rem; margin-bottom: 8px; }
+  </style>
 </head>
 <body>
   <header>
-    <h1>🔍 Java Repo Hunter — Curated by AI</h1>
-    <span id="last-updated">Loading...</span>
+    <div class="header-top">
+      <h1>🔍 Java Repo Hunter</h1>
+      <span id="last-updated">Loading...</span>
+    </div>
+    <div class="controls">
+      <input class="search-box" id="search" type="text" placeholder="🔍 搜尋 repo 名稱或描述..." autocomplete="off" />
+      <select class="profile-select" id="profile-filter">
+        <option value="">🏷️ 全部 profile</option>
+        <option value="emerging">Java emerging</option>
+        <option value="growing">Java growing</option>
+        <option value="established">Java established</option>
+        <option value="historical">historical</option>
+      </select>
+    </div>
   </header>
   <main>
     <div id="stats"></div>
+    <div id="filter-count"></div>
     <div id="cards-grid"></div>
   </main>
 
   <script>
+    let allRepos = [];
+
     function formatDate(dateStr) {
       if (!dateStr) return '—';
       const d = new Date(dateStr);
@@ -28,25 +194,62 @@
       return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
     }
 
+    function profileLabel(p) {
+      if (!p) return '';
+      if (p.toLowerCase().includes('emerging')) return 'emerging 🚀';
+      if (p.toLowerCase().includes('growing')) return 'growing 📈';
+      if (p.toLowerCase().includes('established')) return 'established ⭐';
+      if (p.toLowerCase().includes('historical')) return 'historical 📜';
+      return p;
+    }
+
     function renderCard(repo) {
-      const shortName = repo.full_name.split('/')[1] || repo.full_name;
+      const hasRec = !!(repo.recommendation && repo.recommendation.trim());
       return `
-        <div class="card">
+        <div class="card${hasRec ? '' : ' no-rec'}">
           <div class="card-header">
             <div class="card-title">
-              <a href="${escapeHtml(repo.url)}" target="_blank" rel="noopener">${escapeHtml(repo.full_name)}</a>
+              <a href="${escapeHtml(repo.url)}" target="_blank" rel="noopener">${escapeHtml(repo.full_name.split('/')[1] || repo.full_name)}</a>
             </div>
-            ${repo.profile ? `<span class="card-profile">${escapeHtml(repo.profile)}</span>` : ''}
+            ${repo.profile ? `<span class="card-profile">${escapeHtml(profileLabel(repo.profile))}</span>` : ''}
           </div>
           ${repo.description ? `<div class="card-desc">${escapeHtml(repo.description)}</div>` : ''}
           <div class="card-meta">
             <span>⭐ ${repo.stars?.toLocaleString() ?? '—'}</span>
             <span>🐛 ${repo.open_issues?.toLocaleString() ?? '—'}</span>
             <span>📅 ${formatDate(repo.created_at)}</span>
-            ${repo.date ? `<span>🔄 ${repo.date}</span>` : ''}
           </div>
-          ${repo.recommendation ? `<div class="card-recommendation">💡 ${escapeHtml(repo.recommendation)}</div>` : ''}
+          ${hasRec
+            ? `<div class="card-recommendation">${escapeHtml(repo.recommendation)}</div>`
+            : `<div class="card-no-rec">(no analysis yet)</div>`}
+          <div class="card-footer">
+            ${repo.date ? `推薦日期：${repo.date}` : ''}
+          </div>
         </div>`;
+    }
+
+    function applyFilters() {
+      const q = document.getElementById('search').value.trim().toLowerCase();
+      const pf = document.getElementById('profile-filter').value.toLowerCase();
+      let filtered = allRepos;
+      if (q) {
+        filtered = filtered.filter(r =>
+          (r.full_name || '').toLowerCase().includes(q) ||
+          (r.description || '').toLowerCase().includes(q)
+        );
+      }
+      if (pf) {
+        filtered = filtered.filter(r => (r.profile || '').toLowerCase().includes(pf));
+      }
+      const grid = document.getElementById('cards-grid');
+      const countEl = document.getElementById('filter-count');
+      if (filtered.length === 0) {
+        grid.innerHTML = `<div class="empty-state"><h2>😶 No results</h2><p>換個關鍵字試試看</p></div>`;
+        countEl.textContent = '';
+      } else {
+        grid.innerHTML = filtered.map(renderCard).join('');
+        countEl.textContent = q || pf ? `顯示 ${filtered.length} / ${allRepos.length} 筆` : '';
+      }
     }
 
     async function load() {
@@ -57,22 +260,29 @@
         document.getElementById('last-updated').textContent =
           'Last updated: ' + new Date(data.lastUpdated).toLocaleString('zh-TW');
 
+        allRepos = data.recommendations || [];
+
+        const withRec = allRepos.filter(r => r.recommendation && r.recommendation.trim()).length;
         const stats = document.getElementById('stats');
         stats.innerHTML = `
-          <div class="stat-badge">📦 <strong>${data.recommendations.length}</strong> repos curated</div>
-          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>`;
+          <div class="stat-badge">📦 <strong>${allRepos.length}</strong> repos tracked</div>
+          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>
+          <div class="stat-badge">💡 <strong>${withRec}</strong> with analysis</div>`;
 
-        const grid = document.getElementById('cards-grid');
-        if (!data.recommendations || data.recommendations.length === 0) {
-          grid.innerHTML = `<div class="empty-state"><h2>🚀 No recommendations yet</h2><p>Run the repo hunter to populate this page.</p></div>`;
+        if (!allRepos.length) {
+          document.getElementById('cards-grid').innerHTML =
+            `<div class="empty-state"><h2>🚀 No recommendations yet</h2><p>Run the repo hunter to populate this page.</p></div>`;
           return;
         }
-        grid.innerHTML = data.recommendations.map(renderCard).join('');
+        applyFilters();
       } catch (e) {
         document.getElementById('cards-grid').innerHTML =
           `<div class="empty-state"><h2>❌ Failed to load data</h2><p>${e.message}</p></div>`;
       }
     }
+
+    document.getElementById('search').addEventListener('input', applyFilters);
+    document.getElementById('profile-filter').addEventListener('change', applyFilters);
 
     load();
   </script>
