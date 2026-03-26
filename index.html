@@ -235,7 +235,8 @@
       if (q) {
         filtered = filtered.filter(r =>
           (r.full_name || '').toLowerCase().includes(q) ||
-          (r.description || '').toLowerCase().includes(q)
+          (r.description || '').toLowerCase().includes(q) ||
+          (r.recommendation || '').toLowerCase().includes(q)
         );
       }
       if (pf) {
