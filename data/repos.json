@@ -11,7 +11,7 @@
       "profile": "Java established (2.5k-8k★)",
       "date": "2026-03-26",
       "description": "Firebase Android SDK",
-      "recommendation": "Firebase Android SDK。 近期活躍 issues：FirePerf E2E Test Failures; Data Connect Integration Tests; Data Connect Demo App Nightly。 社群關注度高，已有一定影響力。",
+      "recommendation": "Google 官方維護的 Firebase Android SDK，涵蓋 Realtime Database、Firestore、Auth、Cloud Messaging 等幾乎所有 Firebase 服務。這個 repo 的特別之處在於它是單一 monorepo，各服務模組獨立開發但統一發佈版本——對理解大型 SDK 的工程架構很有價值。近期 issues 集中在 Data Connect（Firebase 新推的 SQL-backed 服務）和 FirePerf 的 E2E 測試基礎設施，說明有新功能在積極開發。貢獻門檻中等，適合熟悉 Android 開發且想深入了解 Google 服務端 SDK 設計的人，但 issue triage 相當嚴格，PR 要有完整測試才會被接受。",
       "recommendation_date": "2026-03-26"
     },
     {
@@ -23,7 +23,7 @@
       "profile": "Java established (2.5k-8k★)",
       "date": "2026-03-26",
       "description": "Apache Calcite",
-      "recommendation": "Apache Calcite。 近期活躍 issues：Add PostGIS Dialect; Expand ProjectJoinRemoveRule; Eliminates common expressions。 社群關注度高，已有一定影響力。",
+      "recommendation": "Apache Calcite 是 Java 生態裡最重要但最不被普通開發者認識的框架之一——它提供 SQL parser、query planner 和 optimizer，被 Apache Flink、Hive、Drill、Kylin 等幾十個大數據工具用來做 SQL 解析層。如果你想理解資料庫查詢優化的底層原理，這裡比任何教科書都實用。Issues 以新 SQL dialect 支援（如 PostGIS）和 query rewrite rules 優化為主，技術深度高。門檻不低，需要有關聯代數和 query planning 的背景知識，但貢獻影響力大，你的改動可能被整個 Flink 生態受益。",
       "recommendation_date": "2026-03-26"
     },
     {
@@ -35,7 +35,7 @@
       "profile": "Java established (2.5k-8k★)",
       "date": "2026-03-26",
       "description": "Apache HBase",
-      "recommendation": "Apache HBase。 近期活躍 issues：Control WAL flush; Add row-level cache for get operation; Add cost function in balancer。 社群關注度高，已有一定影響力。",
+      "recommendation": "Apache HBase 是 Hadoop 生態系的 NoSQL column store，架構直接借鑑 Google Bigtable 論文，在金融、電信等需要海量隨機讀寫的場景仍有大量 production 使用。5500+ stars 但 issue 數量（363）相對活躍，代表它不是一個被遺棄的老專案。近期 issues 涉及 WAL flush 控制和 row-level cache，都是 storage 引擎的核心機制。這不是給新手的入門專案——貢獻者需要理解分散式系統、LSM tree 和 Java 低層 I/O，但對有這個背景的人來說，這裡能學到的比大多數課程都多。",
       "recommendation_date": "2026-03-26"
     },
     {
@@ -47,7 +47,7 @@
       "profile": "Java established (2.5k-8k★)",
       "date": "2026-03-26",
       "description": "A blazingly fast multi-language serialization framework powered by JIT and zero-copy.",
-      "recommendation": "A blazingly fast multi-language serialization framework powered by JIT and zero-copy。 近期活躍 issues：Add JS/TS IDL code generation; Align object array to collection serialization; support copy non-serializable objects。 社群關注度高，已有一定影響力。",
+      "recommendation": "Apache Fory（前身 Fury）是 2023 年才開源的序列化框架，主打 JIT 動態代碼生成和 zero-copy，benchmark 顯示比 Kryo 快數倍，且支援 Java、Python、Go、Rust 多語言。這類「新世代序列化」在 AI 推理服務和高頻交易場景很受關注。4200+ stars 在兩年內積累說明社群接受度快。Issues 有多語言 IDL 生成和 collection 序列化協議的討論，這些都是設計層面的貢獻機會，不只是 bug fix。入場時機好——現在進入還能看到架構設計決策，等它進入 GA 就是另一回事了。",
       "recommendation_date": "2026-03-26"
     },
     {
@@ -59,7 +59,7 @@
       "profile": "Java established (2.5k-8k★)",
       "date": "2026-03-26",
       "description": "Upserts, Deletes And Incremental Processing on Big Data.",
-      "recommendation": "Upserts, Deletes And Incremental Processing on Big Data。 近期活躍 issues：Add Unshredded Variant read & write support; RFC-103 Hudi LSM Tree Layout; Create JsonKinesisSource。 社群關注度高，已有一定影響力。",
+      "recommendation": "Apache Hudi 是 data lakehouse 架構的核心玩家之一，讓 data lake 支援 upsert 和 delete（HDFS 原本做不到），也是 Uber 在 2016 年為了解決自家資料管道問題開源的。6100 stars，但 4012 個 open issues 是個警示——這個比例偏高，說明 backlog 積累嚴重，issue triage 可能不夠快。如果你熟悉 Spark 或 Flink 的資料管道，這裡確實有實際貢獻空間，尤其是 connector 整合類的 issues 門檻相對低。但要做核心的 table format 或 index 部分，需要深入了解 MVCC 和 data layout 的設計。",
       "recommendation_date": "2026-03-26"
     },
     {
