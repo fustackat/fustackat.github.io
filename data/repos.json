@@ -83,7 +83,7 @@
       "profile": "historical",
       "date": "2026-01-02",
       "description": "GreenCode: Empowering sustainable agriculture through ICT, innovation, and digital solutions for smarter learning farming",
-      "recommendation": "這個 repo 描述是關於農業 ICT 的 GreenCode 專案，但 0 顆星、資訊極度有限，無法判斷程式碼品質、維護狀態或社群存在。目前不建議投入貢獻時間，等專案有更多公開活動再評估。",
+      "recommendation": "GreenCode 以農業 ICT 為主軸，試圖將數位工具帶進農業教育與智慧耕作流程。0 顆星意味著目前缺乏公開社群驗證，也可能是剛起步的內部或課堂專案。這類農業科技開源嘗試在東南亞和非洲新興市場有一定政策支撐背景，但在沒有更多 commit 記錄、issue 活動或文件的情況下，無法判斷程式碼品質與維護意願。若你對農業數位化或 EdTech 方向有熱情，可以先讀 README 了解架構；否則建議等到有實質開發活動再評估貢獻價值。",
       "recommendation_date": "2026-01-02"
     },
     {
@@ -143,7 +143,7 @@
       "profile": "historical",
       "date": "2026-03-16",
       "description": "A Stock Manager",
-      "recommendation": "這是一個 stock manager 應用，資訊極度有限，星數和社群活動不清楚。無法評估貢獻價值，跳過。",
+      "recommendation": "Hangar 是個庫存管理（Stock Manager）小型 app，星數極低（1 顆），推測為個人或學習專案。這類 utility 工具如果 UX 設計完整、資料模型清晰，對初學者來說是很好的貢獻練習場——scope 小、邏輯直覺、反饋快。但在確認作者還在維護、有接受 PR 意願之前，不建議投入大量時間。如果你剛開始建立開源貢獻習慣，可以先從改善文件或補測試開始試水溫。",
       "recommendation_date": "2026-03-16"
     },
     {
@@ -251,7 +251,7 @@
       "profile": "historical",
       "date": "2026-03-23",
       "description": "🍃 Patches for Morphe",
-      "recommendation": "這是 Morphe（Twitter 模組）的 patch 集合，資訊極度有限。這類 app 修改專案往往有法律風險且維護不穩定，不建議當作嚴肅貢獻目標。",
+      "recommendation": "hoo-dles/morphe-patches 是 Morphe（Twitter/X 的 Android 第三方 mod）的 patch 集合，227 顆星說明有一定使用者基礎。這類 app patch 專案技術門檻不低，涉及 Xposed/LSPatch 框架、Smali bytecode 或 ReVanced 補丁機制，能學到逆向工程與 Android 系統層的實際操作。但有兩個現實問題：法律灰色地帶（Twitter ToS 明確禁止第三方修改客戶端），以及維護穩定性高度依賴原 app 更新頻率。適合對 Android 底層和 app 逆向有興趣的人研究技術；不建議當作長期主力貢獻專案，帳號封禁和法律風險需自行承擔。",
       "recommendation_date": "2026-03-23"
     },
     {
