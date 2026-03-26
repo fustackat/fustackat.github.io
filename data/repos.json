@@ -227,7 +227,7 @@
       "profile": "historical",
       "date": "2026-03-22",
       "description": "A libre lightweight streaming front-end for Android.",
-      "recommendation": "NewPipe 是 Android 上的 YouTube 等串流平台的輕量替代前端，無廣告、無 Google Play Services 依賴，F-Droid 上最受歡迎的 app 之一。技術上持續與 YouTube 的 API 反爬蟲鬥智，extraction library 是核心挑戰。社群非常活躍，PR 和 issue 量大，但 code review 也嚴格，新人要先熟悉 architecture 再提 PR；適合有 Android 開發經驗並願意在「和平台貓鼠遊戲」這件事上投入精力的人。",
+      "recommendation": "NewPipe 是 Android 上唯一成熟的 YouTube 輕量替代前端，不依賴 Google Play Services、無廣告、支援背景播放與下載，在 F-Droid 上累積超過三萬七千顆星足以說明它的受眾規模。核心挑戰在於 NewPipeExtractor——一個需要持續 reverse-engineering YouTube 更新的 extraction library，每次 YouTube 改版都可能讓整個 app 失效。貢獻門檻偏高，code review 嚴格，建議先從 extractor 的 issue 入手；對有 Android 開發背景且不怕和大平台鬥智的人來說，這是少見的高品質 open-source 戰場。",
       "recommendation_date": "2026-03-22"
     },
     {
@@ -1139,7 +1139,7 @@
       "profile": "historical",
       "date": "2026-03-25",
       "description": "",
-      "recommendation": "這個 repo 沒有 description，資訊極度不足，無法評估貢獻價值。",
+      "recommendation": "OJP 是目前全球唯一的 open-source Type 3 JDBC Driver，搭配一個 Layer 7 Proxy Server，讓應用程式從直接管理 DB connection 解耦出來——它在 app 和 DB 之間加了一層智慧 backpressure 與 connection pooling 管理，支援 PostgreSQL、MySQL、Oracle 等主流資料庫。這個方向很有意思：傳統 connection pool（HikariCP 等）是 client-side，OJP 把它變成獨立服務，適合微服務架構下多個 app instance 搶資料庫連線的場景。專案剛起步（2025 年創建，193 星），有 Java Champion 背書，貢獻機會大，issue 數量 42 個顯示有實際用戶回饋，是可以深度參與早期設計決策的好時機。",
       "recommendation_date": "2026-03-25"
     },
     {
