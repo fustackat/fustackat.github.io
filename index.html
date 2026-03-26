@@ -1,289 +1,595 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="zh-TW" data-theme="dark">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>🔍 Java Repo Hunter — Curated by AI</title>
   <style>
-    :root {
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --surface-hover: #22263a;
-      --border: #2a2d3e;
-      --accent: #4f8ef7;
-      --accent2: #a78bfa;
-      --text: #e2e8f0;
-      --text-dim: #94a3b8;
-      --text-muted: #64748b;
-      --green: #34d399;
-      --yellow: #fbbf24;
-      --red: #f87171;
-      --radius: 12px;
+    /* ─── Gruvbox Tokens ─────────────────────────────────────────── */
+    :root[data-theme="dark"] {
+      --bg:          #282828;
+      --bg1:         #3c3836;
+      --bg2:         #504945;
+      --bg3:         #665c54;
+      --fg:          #ebdbb2;
+      --fg1:         #d5c4a1;
+      --fg2:         #bdae93;
+      --muted:       #928374;
+      --yellow:      #fabd2f;
+      --orange:      #fe8019;
+      --red:         #cc241d;
+      --green:       #98971a;
+      --aqua:        #689d6a;
+      --blue:        #458588;
+      --purple:      #b16286;
+      --border:      #3c3836;
+      --border2:     #504945;
+      --shadow:      rgba(0,0,0,0.4);
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
+    :root[data-theme="light"] {
+      --bg:          #fbf1c7;
+      --bg1:         #ebdbb2;
+      --bg2:         #d5c4a1;
+      --bg3:         #bdae93;
+      --fg:          #3c3836;
+      --fg1:         #504945;
+      --fg2:         #665c54;
+      --muted:       #7c6f64;
+      --yellow:      #b57614;
+      --orange:      #af3a03;
+      --red:         #9d0006;
+      --green:       #79740e;
+      --aqua:        #427b58;
+      --blue:        #076678;
+      --purple:      #8f3f71;
+      --border:      #d5c4a1;
+      --border2:     #bdae93;
+      --shadow:      rgba(60,56,54,0.15);
+    }
+
+    /* ─── Reset & Base ───────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      color: var(--fg);
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       min-height: 100vh;
+      line-height: 1.6;
+      transition: background 0.2s, color 0.2s;
     }
+
+    /* ─── Header ─────────────────────────────────────────────────── */
     header {
-      background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%);
+      background: var(--bg1);
       border-bottom: 1px solid var(--border);
-      padding: 24px 32px;
+      padding: 16px 24px;
       position: sticky; top: 0; z-index: 100;
-      backdrop-filter: blur(10px);
+      backdrop-filter: blur(8px);
+      transition: background 0.2s, border-color 0.2s;
     }
-    .header-top { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
-    header h1 { font-size: 1.5rem; font-weight: 700; color: var(--accent); }
-    #last-updated { font-size: 0.8rem; color: var(--text-muted); }
-    .controls {
-      display: flex; gap: 12px; margin-top: 16px; flex-wrap: wrap; align-items: center;
+    .header-top {
+      display: flex; align-items: center; justify-content: space-between;
+      flex-wrap: wrap; gap: 10px; margin-bottom: 12px;
     }
-    .search-box {
-      flex: 1; min-width: 200px;
-      background: var(--bg);
-      border: 1px solid var(--border);
+    header h1 {
+      font-size: 1.4rem; font-weight: 700;
+      color: var(--yellow);
+      letter-spacing: -0.01em;
+    }
+    .header-right { display: flex; align-items: center; gap: 12px; }
+    #last-updated { font-size: 0.8rem; color: var(--muted); }
+
+    /* Theme toggle */
+    #theme-toggle {
+      background: var(--bg2);
+      border: 1px solid var(--border2);
       border-radius: 8px;
-      padding: 8px 14px;
-      color: var(--text);
-      font-size: 0.9rem;
-      outline: none;
-      transition: border-color 0.2s;
-    }
-    .search-box:focus { border-color: var(--accent); }
-    .profile-select {
-      background: var(--bg);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 8px 14px;
-      color: var(--text);
-      font-size: 0.9rem;
-      outline: none;
+      padding: 5px 10px;
+      font-size: 1rem;
       cursor: pointer;
-      transition: border-color 0.2s;
+      color: var(--fg);
+      transition: background 0.2s, border-color 0.2s;
+      line-height: 1;
     }
-    .profile-select:focus { border-color: var(--accent); }
-    main { max-width: 1400px; margin: 0 auto; padding: 24px 20px; }
-    #stats {
-      display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap;
+    #theme-toggle:hover { background: var(--bg3); }
+
+    /* Controls */
+    .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .search-box, .filter-select {
+      background: var(--bg);
+      border: 1px solid var(--border2);
+      border-radius: 8px;
+      padding: 7px 12px;
+      color: var(--fg);
+      font-size: 0.88rem;
+      outline: none;
+      transition: border-color 0.2s, background 0.2s;
     }
+    .search-box { flex: 1; min-width: 200px; }
+    .search-box::placeholder { color: var(--muted); }
+    .search-box:focus, .filter-select:focus { border-color: var(--yellow); }
+    .filter-select { cursor: pointer; }
+    .filter-select option { background: var(--bg1); }
+
+    /* Sort buttons */
+    .sort-group { display: flex; gap: 4px; }
+    .sort-btn {
+      background: var(--bg2);
+      border: 1px solid var(--border2);
+      border-radius: 6px;
+      padding: 6px 11px;
+      font-size: 0.8rem;
+      color: var(--fg1);
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+    .sort-btn:hover { background: var(--bg3); color: var(--fg); }
+    .sort-btn.active {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fbf1c7;
+      font-weight: 600;
+    }
+
+    /* ─── Main ────────────────────────────────────────────────────── */
+    main { max-width: 1400px; margin: 0 auto; padding: 20px 20px 40px; }
+
+    #stats { display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; }
     .stat-badge {
-      background: var(--surface);
+      background: var(--bg1);
       border: 1px solid var(--border);
       border-radius: 20px;
-      padding: 6px 14px;
-      font-size: 0.85rem;
-      color: var(--text-dim);
+      padding: 5px 13px;
+      font-size: 0.82rem;
+      color: var(--fg2);
+      transition: background 0.2s;
     }
-    #filter-count { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 16px; }
+    .stat-badge strong { color: var(--fg); }
+
+    #filter-count { font-size: 0.82rem; color: var(--muted); margin-bottom: 14px; min-height: 1.2em; }
+
+    /* ─── Grid ────────────────────────────────────────────────────── */
     #cards-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-      gap: 16px;
+      gap: 14px;
     }
+
+    /* ─── Card ────────────────────────────────────────────────────── */
     .card {
-      background: var(--surface);
+      background: var(--bg1);
       border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 18px;
-      display: flex; flex-direction: column; gap: 10px;
-      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s;
+      border-radius: 10px;
+      padding: 16px;
+      display: flex; flex-direction: column; gap: 9px;
+      transition: transform 0.15s, border-color 0.15s, box-shadow 0.15s, background 0.2s;
       position: relative;
+      overflow: hidden;
     }
     .card:hover {
-      transform: translateY(-3px);
-      border-color: var(--accent);
-      box-shadow: 0 8px 30px rgba(79, 142, 247, 0.15);
+      transform: translateY(-2px);
+      border-color: var(--yellow);
+      box-shadow: 0 6px 24px var(--shadow);
     }
-    .card.no-rec {
-      background: #14161f;
-      border-color: #1e2030;
-      opacity: 0.75;
-    }
+    .card.no-rec { opacity: 0.7; }
+
     .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+    .card-title-row { display: flex; align-items: center; gap: 7px; min-width: 0; }
     .card-title a {
-      font-size: 1.05rem; font-weight: 700;
-      color: var(--accent);
+      font-size: 1rem; font-weight: 700;
+      color: var(--blue);
       text-decoration: none;
       word-break: break-all;
+      transition: color 0.15s;
     }
-    .card-title a:hover { text-decoration: underline; }
+    [data-theme="light"] .card-title a { color: var(--blue); }
+    .card-title a:hover { color: var(--yellow); text-decoration: underline; }
+
+    /* NEW badge */
+    .badge-new {
+      font-size: 0.65rem; font-weight: 700;
+      background: var(--orange);
+      color: #fbf1c7;
+      border-radius: 4px;
+      padding: 1px 5px;
+      flex-shrink: 0;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+
+    /* Profile badge colours */
     .card-profile {
-      font-size: 0.7rem;
-      background: rgba(167,139,250,0.15);
-      color: var(--accent2);
-      border: 1px solid rgba(167,139,250,0.3);
+      font-size: 0.68rem;
       border-radius: 20px;
-      padding: 3px 8px;
+      padding: 2px 8px;
       white-space: nowrap;
       flex-shrink: 0;
+      font-weight: 600;
+      border: 1px solid;
     }
+    .profile-emerging  { background: rgba(254,128,25,0.15); color: var(--orange); border-color: var(--orange); }
+    .profile-growing   { background: rgba(152,151,26,0.15); color: var(--green);  border-color: var(--green); }
+    .profile-established { background: rgba(69,133,136,0.15); color: var(--aqua); border-color: var(--aqua); }
+    .profile-historical { background: rgba(177,98,134,0.15); color: var(--purple); border-color: var(--purple); }
+    .profile-other     { background: rgba(250,189,47,0.12); color: var(--yellow); border-color: var(--yellow); }
+
     .card-desc {
-      font-size: 0.82rem;
-      color: var(--text-muted);
-      line-height: 1.4;
+      font-size: 0.81rem; color: var(--muted); line-height: 1.4;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
     }
+
     .card-meta {
-      display: flex; gap: 10px; flex-wrap: wrap;
-      font-size: 0.8rem; color: var(--text-dim);
+      display: flex; gap: 12px; flex-wrap: wrap;
+      font-size: 0.79rem; color: var(--fg2);
     }
-    .card-meta span { white-space: nowrap; }
+    .stars-link {
+      color: var(--yellow); text-decoration: none; font-weight: 600;
+      transition: color 0.15s;
+    }
+    .stars-link:hover { color: var(--orange); }
+
     .card-recommendation {
-      background: rgba(79,142,247,0.08);
-      border-left: 3px solid var(--accent);
+      background: var(--bg2);
+      border-left: 3px solid var(--yellow);
       border-radius: 0 6px 6px 0;
-      padding: 10px 12px;
-      font-size: 0.85rem;
-      color: var(--text);
-      line-height: 1.55;
+      padding: 9px 11px;
+      font-size: 0.83rem; color: var(--fg1); line-height: 1.55;
       flex: 1;
+      transition: background 0.2s;
     }
-    .card-no-rec {
-      font-size: 0.82rem;
-      color: var(--text-muted);
-      font-style: italic;
-      padding: 6px 0;
-    }
+    .card-no-rec { font-size: 0.8rem; color: var(--muted); font-style: italic; padding: 4px 0; }
+
+    /* Card footer */
     .card-footer {
-      display: flex; justify-content: flex-end;
-      font-size: 0.72rem; color: var(--text-muted);
-      margin-top: auto;
+      display: flex; justify-content: space-between; align-items: center;
+      font-size: 0.71rem; color: var(--muted); margin-top: auto;
     }
+
+    /* Copy button */
+    .copy-btn {
+      background: var(--bg2);
+      border: 1px solid var(--border2);
+      border-radius: 5px;
+      padding: 3px 8px;
+      font-size: 0.72rem;
+      color: var(--fg2);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .copy-btn:hover { background: var(--aqua); color: #fbf1c7; border-color: var(--aqua); }
+    .copy-btn.copied { background: var(--green); color: #fbf1c7; border-color: var(--green); }
+
+    /* ─── Pagination ─────────────────────────────────────────────── */
+    #pagination {
+      display: flex; justify-content: center; align-items: center;
+      gap: 10px; margin-top: 28px; flex-wrap: wrap;
+    }
+    .page-btn {
+      background: var(--bg1);
+      border: 1px solid var(--border2);
+      border-radius: 7px;
+      padding: 7px 14px;
+      font-size: 0.85rem;
+      color: var(--fg1);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
+    }
+    .page-btn:hover { background: var(--bg2); }
+    .page-btn.active {
+      background: var(--blue);
+      border-color: var(--blue);
+      color: #fbf1c7;
+      font-weight: 700;
+    }
+    .page-btn:disabled { opacity: 0.4; cursor: default; }
+    #page-info { font-size: 0.82rem; color: var(--muted); }
+
+    /* ─── Empty ──────────────────────────────────────────────────── */
     .empty-state {
-      grid-column: 1/-1;
-      text-align: center; padding: 60px 20px; color: var(--text-muted);
+      grid-column: 1/-1; text-align: center;
+      padding: 60px 20px; color: var(--muted);
     }
     .empty-state h2 { font-size: 1.3rem; margin-bottom: 8px; }
+
+    /* ─── Responsive ─────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      header { padding: 12px 14px; }
+      header h1 { font-size: 1.15rem; }
+      .controls { gap: 7px; }
+      .search-box { min-width: 0; }
+      main { padding: 14px 12px 32px; }
+      #cards-grid { grid-template-columns: 1fr; }
+      .sort-group { flex-wrap: wrap; }
+    }
   </style>
 </head>
 <body>
   <header>
     <div class="header-top">
-      <h1>🔍 Java Repo Hunter</h1>
-      <span id="last-updated">Loading...</span>
+      <h1>☕ Java Repo Hunter</h1>
+      <div class="header-right">
+        <span id="last-updated">Loading…</span>
+        <button id="theme-toggle" title="切換深色/淺色">🌙</button>
+      </div>
     </div>
     <div class="controls">
-      <input class="search-box" id="search" type="text" placeholder="🔍 搜尋 repo 名稱或描述..." autocomplete="off" />
-      <select class="profile-select" id="profile-filter">
+      <input class="search-box" id="search" type="text"
+             placeholder="🔍 搜尋名稱、描述、推薦文…" autocomplete="off" />
+      <select class="filter-select" id="profile-filter">
         <option value="">🏷️ 全部 profile</option>
-        <option value="emerging">Java emerging</option>
-        <option value="growing">Java growing</option>
-        <option value="established">Java established</option>
-        <option value="historical">historical</option>
+        <option value="emerging">🚀 emerging</option>
+        <option value="growing">📈 growing</option>
+        <option value="established">⭐ established</option>
+        <option value="historical">📜 historical</option>
       </select>
+      <div class="sort-group">
+        <button class="sort-btn active" data-sort="date-desc">🕒 最新</button>
+        <button class="sort-btn" data-sort="date-asc">🕒 最舊</button>
+        <button class="sort-btn" data-sort="stars-desc">⭐ 星多</button>
+        <button class="sort-btn" data-sort="stars-asc">⭐ 星少</button>
+      </div>
     </div>
   </header>
+
   <main>
     <div id="stats"></div>
     <div id="filter-count"></div>
     <div id="cards-grid"></div>
+    <div id="pagination"></div>
   </main>
 
   <script>
+    /* ── State ─────────────────────────────────────────────────── */
     let allRepos = [];
+    let filteredRepos = [];
+    let currentSort = 'date-desc';
+    let currentPage = 1;
+    const PAGE_SIZE = 24;
+    const NOW = Date.now();
+    const THIRTY_DAYS = 30 * 24 * 60 * 60 * 1000;
 
-    function formatDate(dateStr) {
-      if (!dateStr) return '—';
-      const d = new Date(dateStr);
-      return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'short' });
+    /* ── Theme ─────────────────────────────────────────────────── */
+    const html = document.documentElement;
+    const themeBtn = document.getElementById('theme-toggle');
+
+    function setTheme(t) {
+      html.setAttribute('data-theme', t);
+      themeBtn.textContent = t === 'dark' ? '☀️' : '🌙';
+      themeBtn.title = t === 'dark' ? '切換淺色模式' : '切換深色模式';
+      localStorage.setItem('gruvbox-theme', t);
     }
 
-    function escapeHtml(str) {
-      if (!str) return '';
-      return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    (function initTheme() {
+      const saved = localStorage.getItem('gruvbox-theme');
+      const pref = saved || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+      setTheme(pref);
+    })();
+
+    themeBtn.addEventListener('click', () => {
+      setTheme(html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+    });
+
+    /* ── Helpers ───────────────────────────────────────────────── */
+    function esc(s) {
+      if (!s) return '';
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function fmtDate(s) {
+      if (!s) return '—';
+      return new Date(s).toLocaleDateString('zh-TW', { year: 'numeric', month: 'short' });
+    }
+
+    function isNew(repo) {
+      const d = repo.recommendation_date || repo.date || repo.added_date;
+      if (!d) return false;
+      return (NOW - new Date(d).getTime()) <= THIRTY_DAYS;
+    }
+
+    function profileClass(p) {
+      if (!p) return 'profile-other';
+      const l = p.toLowerCase();
+      if (l.includes('emerging'))    return 'profile-emerging';
+      if (l.includes('growing'))     return 'profile-growing';
+      if (l.includes('established')) return 'profile-established';
+      if (l.includes('historical'))  return 'profile-historical';
+      return 'profile-other';
     }
 
     function profileLabel(p) {
       if (!p) return '';
-      if (p.toLowerCase().includes('emerging')) return 'emerging 🚀';
-      if (p.toLowerCase().includes('growing')) return 'growing 📈';
-      if (p.toLowerCase().includes('established')) return 'established ⭐';
-      if (p.toLowerCase().includes('historical')) return 'historical 📜';
+      const l = p.toLowerCase();
+      if (l.includes('emerging'))    return '🚀 emerging';
+      if (l.includes('growing'))     return '📈 growing';
+      if (l.includes('established')) return '⭐ established';
+      if (l.includes('historical'))  return '📜 historical';
       return p;
     }
 
+    /* ── Card Renderer ─────────────────────────────────────────── */
     function renderCard(repo) {
       const hasRec = !!(repo.recommendation && repo.recommendation.trim());
+      const repoName = repo.full_name.split('/')[1] || repo.full_name;
+      const starsUrl = repo.url + '/stargazers';
+      const newBadge = isNew(repo) ? '<span class="badge-new">new</span>' : '';
+
       return `
-        <div class="card${hasRec ? '' : ' no-rec'}">
+        <div class="card${hasRec ? '' : ' no-rec'}" data-url="${esc(repo.url)}">
           <div class="card-header">
-            <div class="card-title">
-              <a href="${escapeHtml(repo.url)}" target="_blank" rel="noopener">${escapeHtml(repo.full_name.split('/')[1] || repo.full_name)}</a>
+            <div class="card-title-row">
+              <div class="card-title">
+                <a href="${esc(repo.url)}" target="_blank" rel="noopener">${esc(repoName)}</a>
+              </div>
+              ${newBadge}
             </div>
-            ${repo.profile ? `<span class="card-profile">${escapeHtml(profileLabel(repo.profile))}</span>` : ''}
+            ${repo.profile ? `<span class="card-profile ${profileClass(repo.profile)}">${esc(profileLabel(repo.profile))}</span>` : ''}
           </div>
-          ${repo.description ? `<div class="card-desc">${escapeHtml(repo.description)}</div>` : ''}
+          ${repo.description ? `<div class="card-desc" title="${esc(repo.description)}">${esc(repo.description)}</div>` : ''}
           <div class="card-meta">
-            <span>⭐ ${repo.stars?.toLocaleString() ?? '—'}</span>
+            <a class="stars-link" href="${esc(starsUrl)}" target="_blank" rel="noopener">⭐ ${repo.stars?.toLocaleString() ?? '—'}</a>
             <span>🐛 ${repo.open_issues?.toLocaleString() ?? '—'}</span>
-            <span>📅 ${formatDate(repo.created_at)}</span>
+            <span>📅 ${fmtDate(repo.created_at)}</span>
           </div>
           ${hasRec
-            ? `<div class="card-recommendation">${escapeHtml(repo.recommendation)}</div>`
+            ? `<div class="card-recommendation">${esc(repo.recommendation)}</div>`
             : `<div class="card-no-rec">(no analysis yet)</div>`}
           <div class="card-footer">
-            ${repo.date ? `推薦日期：${repo.date}` : ''}
+            <span>${repo.recommendation_date ? '推薦：' + repo.recommendation_date : ''}</span>
+            <button class="copy-btn" onclick="copyLink(this,'${esc(repo.url)}')">🔗 複製連結</button>
           </div>
         </div>`;
     }
 
+    /* ── Copy Link ─────────────────────────────────────────────── */
+    function copyLink(btn, url) {
+      navigator.clipboard.writeText(url).then(() => {
+        btn.textContent = '✅ 已複製';
+        btn.classList.add('copied');
+        setTimeout(() => {
+          btn.textContent = '🔗 複製連結';
+          btn.classList.remove('copied');
+        }, 1800);
+      }).catch(() => {
+        btn.textContent = '❌ 失敗';
+        setTimeout(() => { btn.textContent = '🔗 複製連結'; }, 1800);
+      });
+    }
+
+    /* ── Sort ──────────────────────────────────────────────────── */
+    function sortRepos(repos, sortKey) {
+      const arr = [...repos];
+      switch (sortKey) {
+        case 'stars-desc': return arr.sort((a,b) => (b.stars||0) - (a.stars||0));
+        case 'stars-asc':  return arr.sort((a,b) => (a.stars||0) - (b.stars||0));
+        case 'date-asc':
+          return arr.sort((a,b) => new Date(a.recommendation_date||a.date||0) - new Date(b.recommendation_date||b.date||0));
+        case 'date-desc':
+        default:
+          return arr.sort((a,b) => new Date(b.recommendation_date||b.date||0) - new Date(a.recommendation_date||a.date||0));
+      }
+    }
+
+    /* ── Filter + Render ───────────────────────────────────────── */
     function applyFilters() {
-      const q = document.getElementById('search').value.trim().toLowerCase();
+      const q  = document.getElementById('search').value.trim().toLowerCase();
       const pf = document.getElementById('profile-filter').value.toLowerCase();
-      let filtered = allRepos;
+
+      let result = allRepos;
       if (q) {
-        filtered = filtered.filter(r =>
-          (r.full_name || '').toLowerCase().includes(q) ||
-          (r.description || '').toLowerCase().includes(q) ||
+        result = result.filter(r =>
+          (r.full_name      || '').toLowerCase().includes(q) ||
+          (r.description    || '').toLowerCase().includes(q) ||
           (r.recommendation || '').toLowerCase().includes(q)
         );
       }
       if (pf) {
-        filtered = filtered.filter(r => (r.profile || '').toLowerCase().includes(pf));
+        result = result.filter(r => (r.profile || '').toLowerCase().includes(pf));
       }
-      const grid = document.getElementById('cards-grid');
-      const countEl = document.getElementById('filter-count');
-      if (filtered.length === 0) {
-        grid.innerHTML = `<div class="empty-state"><h2>😶 No results</h2><p>換個關鍵字試試看</p></div>`;
-        countEl.textContent = '';
-      } else {
-        grid.innerHTML = filtered.map(renderCard).join('');
-        countEl.textContent = q || pf ? `顯示 ${filtered.length} / ${allRepos.length} 筆` : '';
-      }
+
+      filteredRepos = sortRepos(result, currentSort);
+      currentPage = 1;
+      renderPage();
     }
 
+    function renderPage() {
+      const grid     = document.getElementById('cards-grid');
+      const countEl  = document.getElementById('filter-count');
+      const pagEl    = document.getElementById('pagination');
+      const total    = filteredRepos.length;
+      const pages    = Math.max(1, Math.ceil(total / PAGE_SIZE));
+      const start    = (currentPage - 1) * PAGE_SIZE;
+      const slice    = filteredRepos.slice(start, start + PAGE_SIZE);
+
+      // Filter count
+      const isFiltered = document.getElementById('search').value.trim()
+                      || document.getElementById('profile-filter').value;
+      countEl.textContent = isFiltered
+        ? `顯示 ${total} / ${allRepos.length} 筆`
+        : `共 ${total} 筆`;
+
+      // Grid
+      if (slice.length === 0) {
+        grid.innerHTML = `<div class="empty-state"><h2>😶 沒有結果</h2><p>換個關鍵字試試看</p></div>`;
+        pagEl.innerHTML = '';
+        return;
+      }
+      grid.innerHTML = slice.map(renderCard).join('');
+
+      // Pagination
+      if (pages <= 1) { pagEl.innerHTML = ''; return; }
+
+      let html = '';
+      html += `<button class="page-btn" onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>‹ 上一頁</button>`;
+
+      // Page number buttons (show max 7 around current)
+      const range = 3;
+      for (let p = 1; p <= pages; p++) {
+        if (p === 1 || p === pages || (p >= currentPage - range && p <= currentPage + range)) {
+          html += `<button class="page-btn${p===currentPage?' active':''}" onclick="goPage(${p})">${p}</button>`;
+        } else if (p === currentPage - range - 1 || p === currentPage + range + 1) {
+          html += `<span style="color:var(--muted)">…</span>`;
+        }
+      }
+
+      html += `<button class="page-btn" onclick="goPage(${currentPage+1})" ${currentPage===pages?'disabled':''}>下一頁 ›</button>`;
+      html += `<span id="page-info">第 ${currentPage} / ${pages} 頁</span>`;
+      pagEl.innerHTML = html;
+    }
+
+    function goPage(p) {
+      const pages = Math.ceil(filteredRepos.length / PAGE_SIZE);
+      if (p < 1 || p > pages) return;
+      currentPage = p;
+      renderPage();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    /* ── Sort Buttons ──────────────────────────────────────────── */
+    document.querySelectorAll('.sort-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        currentSort = btn.dataset.sort;
+        applyFilters();
+      });
+    });
+
+    /* ── Events ────────────────────────────────────────────────── */
+    document.getElementById('search').addEventListener('input', applyFilters);
+    document.getElementById('profile-filter').addEventListener('change', applyFilters);
+
+    /* ── Load ──────────────────────────────────────────────────── */
     async function load() {
       try {
         const res = await fetch('data/repos.json?_=' + Date.now());
         const data = await res.json();
 
         document.getElementById('last-updated').textContent =
-          'Last updated: ' + new Date(data.lastUpdated).toLocaleString('zh-TW');
+          '更新：' + new Date(data.lastUpdated).toLocaleString('zh-TW');
 
         allRepos = data.recommendations || [];
+        const withRec = allRepos.filter(r => r.recommendation?.trim()).length;
+        const newCount = allRepos.filter(isNew).length;
 
-        const withRec = allRepos.filter(r => r.recommendation && r.recommendation.trim()).length;
-        const stats = document.getElementById('stats');
-        stats.innerHTML = `
-          <div class="stat-badge">📦 <strong>${allRepos.length}</strong> repos tracked</div>
-          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>
-          <div class="stat-badge">💡 <strong>${withRec}</strong> with analysis</div>`;
+        document.getElementById('stats').innerHTML = `
+          <div class="stat-badge">📦 <strong>${allRepos.length}</strong> 個 repo</div>
+          <div class="stat-badge">🔭 <strong>${(data.totalSeen||0).toLocaleString()}</strong> 個已掃描</div>
+          <div class="stat-badge">💡 <strong>${withRec}</strong> 有推薦分析</div>
+          ${newCount ? `<div class="stat-badge">🆕 <strong>${newCount}</strong> 本月新增</div>` : ''}
+        `;
 
         if (!allRepos.length) {
           document.getElementById('cards-grid').innerHTML =
-            `<div class="empty-state"><h2>🚀 No recommendations yet</h2><p>Run the repo hunter to populate this page.</p></div>`;
+            `<div class="empty-state"><h2>🚀 尚無推薦</h2><p>執行 Repo Hunter 來填充此頁面。</p></div>`;
           return;
         }
         applyFilters();
       } catch (e) {
         document.getElementById('cards-grid').innerHTML =
-          `<div class="empty-state"><h2>❌ Failed to load data</h2><p>${e.message}</p></div>`;
+          `<div class="empty-state"><h2>❌ 載入失敗</h2><p>${e.message}</p></div>`;
       }
     }
-
-    document.getElementById('search').addEventListener('input', applyFilters);
-    document.getElementById('profile-filter').addEventListener('change', applyFilters);
 
     load();
   </script>
