@@ -1,46 +1,46 @@
 {
-  "lastUpdated": "2026-03-27T05:18:14Z",
+  "lastUpdated": "2026-03-27T05:28:11Z",
   "totalSeen": 144,
   "recommendations": [
     {
       "full_name": "higress-group/himarket",
-      "description": "企業級 AI 能力市集平台，整合 Model API、MCP Server、Agent API 等核心 AI 資產的統一管理與發布系統。",
       "stars": 1033,
       "language": "Java",
       "url": "https://github.com/higress-group/himarket",
-      "recommendation": "2025年8月才建立、星數已破千，成長速度極快。專案聚焦AI/MCP生態系，是目前最熱的技術方向。有help wanted issue且留言活躍，社群正在積極討論功能需求，進場時機好。"
+      "description": "HiMarket AI Open Platform — 企業級 AI 能力市場，整合 Model API、MCP Server、Agent API 的打包、發布與管理。",
+      "recommendation": "企業級 AI 能力市場平台（Model API、MCP Server、Agent API），2025年8月建立已破千星，快速迭代中，有 help wanted issue，早期貢獻影響力大。"
     },
     {
       "full_name": "testng-team/testng",
-      "description": "Java 生態系最知名的測試框架之一，支援 JVM 上的單元測試、整合測試與端對端測試。",
       "stars": 2053,
       "language": "Java",
       "url": "https://github.com/testng-team/testng",
-      "recommendation": "存在15年以上的老牌Java測試框架，287個open issues代表有大量切入點。對履歷有加分效果，貢獻紀錄具說服力。"
+      "description": "TestNG testing framework — Java 生態最主流的測試框架之一，支援資料驅動、依賴測試、平行執行。",
+      "recommendation": "Java 生態主流測試框架，15年歷史仍持續維護，287個 open issues 選擇多，貢獻紀錄在履歷上有說服力。"
     },
     {
       "full_name": "GrimAnticheat/Grim",
-      "description": "全非同步、多執行緒的開源 Minecraft 反作弊系統，支援 1.8–1.21，部署於 Bukkit/Paper/Folia/Spigot 平台。",
       "stars": 1564,
       "language": "Java",
       "url": "https://github.com/GrimAnticheat/Grim",
-      "recommendation": "Minecraft最活躍的反作弊專案，有明確標記good first issue。技術棧涉及多執行緒與遊戲物理模擬，社群討論非常熱絡。"
+      "description": "完全非同步、多執行緒的 Minecraft 反作弊插件，支援 1.8-1.21，預測性偵測，支援 Bukkit/Paper/Folia/Fabric。",
+      "recommendation": "高精度非同步 Minecraft 反作弊插件，支援多平台，有 good first issue，技術涉及物理預測與封包分析，學習價值高。"
     },
     {
       "full_name": "OpenNMS/opennms",
-      "description": "企業級開源網路監控平台，支援 SNMP、JMX、Prometheus 等數十種協定，提供完整監控與告警功能。",
       "stars": 1141,
       "language": "Java",
       "url": "https://github.com/OpenNMS/opennms",
-      "recommendation": "Hacktoberfest常客，社群對外部貢獻友善。企業網路監控領域利基，對有DevOps/SRE背景的人很對口。"
+      "description": "Enterprise-Grade Open-Source Network Management Platform — 支援 SNMP、JMX、WinRM 等多協定的故障告警與效能監控。",
+      "recommendation": "企業級網路監控平台，12年老牌支援 hacktoberfest，issues 數量適中，對維運/SRE 方向加分。"
     },
     {
       "full_name": "sqlancer/sqlancer",
-      "description": "自動化資料庫 fuzzing 工具，針對 MySQL、PostgreSQL、SQLite、DuckDB 等主流 DBMS 找出邏輯與效能 bug。",
       "stars": 1714,
       "language": "Java",
       "url": "https://github.com/sqlancer/sqlancer",
-      "recommendation": "MIT授權、學術背景強，有good first issue且說明清楚。對資料庫內部實作有興趣的人難得能直接挖bug的實戰平台，貢獻含金量高。"
+      "description": "Automated testing to find logic and performance bugs in database systems — 已在 MySQL、PostgreSQL、SQLite 等主流 DB 找到數百個 bug。",
+      "recommendation": "自動化 DBMS fuzzing 測試工具，已在主流 DB 找到數百個 bug，有 good first issue，MIT 授權，資料庫底層技術深度夠。"
     }
   ]
 }
