@@ -1,46 +1,46 @@
 {
-  "lastUpdated": "2026-03-27T07:23:11Z",
+  "lastUpdated": "2026-03-27T07:33:22Z",
   "totalSeen": 144,
   "recommendations": [
     {
       "full_name": "higress-group/himarket",
-      "description": "企業級 AI 能力市場平台，整合 Model API、MCP Server、Agent API，提供標準化的 AI 資產發布與運營機制。",
+      "description": "企業級 AI 能力市場平台，統一管理 Model API、MCP Server、Agent API，支援標準化打包發布與運營。",
       "stars": 1033,
       "language": "Java",
       "url": "https://github.com/higress-group/himarket",
-      "recommendation": "2025年8月才開源，成長最快的AI能力市場平台，整合MCP/Agent API，有help wanted issue，中文社群友善，現在切入時機最好。"
+      "recommendation": "2025年8月新專案，爆速成長至1,000+★。AI基礎設施熱點，有help wanted標籤，現在進入正是好時機。"
     },
     {
       "full_name": "testng-team/testng",
-      "description": "Java 生態最廣泛使用的測試框架，支援依賴測試、並行執行、資料驅動等進階功能。",
+      "description": "Java 老牌測試框架，涵蓋群組測試、依賴測試、資料驅動測試，企業 Java 開發中廣泛使用。",
       "stars": 2053,
       "language": "Java",
       "url": "https://github.com/testng-team/testng",
-      "recommendation": "16年老牌Java測試框架，287個open issues空間大，Apache-2.0授權，issue有明確重現步驟，適合初次貢獻者。"
+      "recommendation": "16年老牌框架，2,000+★持續活躍，287個open issues切入點多。"
     },
     {
       "full_name": "GrimAnticheat/Grim",
-      "description": "全非同步多執行緒 Minecraft 反作弊插件，支援 1.8-1.21，兼容 Paper、Spigot、Folia。",
+      "description": "全非同步多執行緒開源 Minecraft 反作弊，支援 1.8–1.21，相容 Paper/Folia/Fabric。",
       "stars": 1564,
       "language": "Java",
       "url": "https://github.com/GrimAnticheat/Grim",
-      "recommendation": "最被認可的開源Minecraft反作弊，有good first issue，PR討論熱烈，適合對Java並發有興趣的人。"
+      "recommendation": "最具技術深度的開源MC反作弊，327個issues社群超活躍，有good first issue。"
     },
     {
       "full_name": "OpenNMS/opennms",
-      "description": "企業級開源網路監控平台，支援 SNMP、JMX、Prometheus 等協議，提供完整故障管理與效能監控。",
+      "description": "企業級開源網路監控平台，支援 SNMP、JMX 等多協議，提供故障、效能、流量監控一體化。",
       "stars": 1141,
       "language": "Java",
       "url": "https://github.com/OpenNMS/opennms",
-      "recommendation": "13年企業級網路監控平台，hacktoberfest友善，open issues乾淨，適合想累積企業級Java網路管理經驗的貢獻者。"
+      "recommendation": "13年hacktoberfest老牌專案，90個issues數量適中，歡迎外部貢獻。"
     },
     {
       "full_name": "sqlancer/sqlancer",
-      "description": "自動化資料庫 bug 測試工具，透過 fuzzing 找出 MySQL、PostgreSQL、SQLite、DuckDB 等資料庫的邏輯 bug。",
+      "description": "自動化資料庫 fuzzing 工具，尋找 MySQL、PostgreSQL、SQLite 等系統的邏輯錯誤與效能 bug。",
       "stars": 1714,
       "language": "Java",
       "url": "https://github.com/sqlancer/sqlancer",
-      "recommendation": "ETH Zürich學術背景，資料庫fuzzing工具，MIT授權，good first issue明確，是學習測試技術的最佳平台之一。"
+      "recommendation": "1,714★ MIT授權，有good first issue，資料庫fuzzing稀缺技能學習回報率高。"
     }
   ]
 }
