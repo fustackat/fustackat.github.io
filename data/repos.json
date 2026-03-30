@@ -248,7 +248,7 @@
       "description": "Automated testing to find logic and performance bugs in database systems",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "ETH Zürich 學術背景，技術含金量高，有 good first issue，支援多種 DBMS，貢獻方向多元。"
     },
     {
       "full_name": "OpenNMS/opennms",
@@ -261,7 +261,7 @@
       "description": "Enterprise-Grade Open-Source Network Management Platform",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "有 hacktoberfest 標籤對外部貢獻友善，open issue 數少（90），進入難度低，適合磨練大型 Java 系統經驗。"
     },
     {
       "full_name": "GrimAnticheat/Grim",
@@ -274,7 +274,7 @@
       "description": "Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, \"bypassable\" 1.8-1.21 minecraft anticheat.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "有 good first issue，Bukkit/Paper 社群活躍，適合入門高並發 Java 開發，有 Discord 支援。"
     },
     {
       "full_name": "testng-team/testng",
@@ -287,7 +287,7 @@
       "description": "TestNG testing framework",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "15年歷史，Java 社群知名度極高，287 個 open issue 貢獻空間大，對履歷加分明顯。"
     },
     {
       "full_name": "higress-group/himarket",
@@ -300,7 +300,7 @@
       "description": "HiMarket is an enterprise-level \"AI Capability Marketplace and Developer Ecosystem Hub.\" It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "2025年8月才創建就已破千星，AI infra 方向極熱，MCP Server 整合是當前焦點。有 help wanted 標籤，社群友善，現在進去是早期貢獻者優勢。"
     },
     {
       "full_name": "buildfarm/buildfarm",
