@@ -313,7 +313,7 @@
       "description": "Bazel remote caching and execution service",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 757★，屬於中小型活躍專案。 Bazel remote caching and execution service 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "MegaMek/megamek",
@@ -326,7 +326,7 @@
       "description": "MegaMek is a networked Java clone of BattleTech, a turn-based sci-fi boardgame for 2+ players. Fight using giant robots, tanks, and/or infantry on a hex-based map.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 337★，屬於中小型活躍專案。 MegaMek is a networked Java clone of BattleTech, a turn-based sci-fi boardgame for 2+ players. Fight using giant robots, tanks, and/or infantry on a hex-based map. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "sosy-lab/java-smt",
@@ -339,7 +339,7 @@
       "description": "JavaSMT - Unified Java API for SMT solvers.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 232★，屬於中小型活躍專案。 JavaSMT - Unified Java API for SMT solvers. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "runelite/plugin-hub",
@@ -352,7 +352,7 @@
       "description": "External plugins for RuneLite",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 338★，屬於中小型活躍專案。 External plugins for RuneLite 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "TeamMidnightDust/MidnightControls",
@@ -365,7 +365,7 @@
       "description": "A Minecraft mod adding controller support and enhanced controls overall.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 206★，屬於中小型活躍專案。 A Minecraft mod adding controller support and enhanced controls overall. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "terrakube-io/terrakube",
@@ -378,7 +378,7 @@
       "description": "Open source IaC Automation and Collaboration Software.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 865★，屬於中小型活躍專案。 Open source IaC Automation and Collaboration Software. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "xwiki/xwiki-platform",
@@ -391,7 +391,7 @@
       "description": "The XWiki platform",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1225★，成長穩定，值得關注。 The XWiki platform 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "MehVahdJukaar/Supplementaries",
@@ -404,7 +404,7 @@
       "description": "",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 200★，屬於中小型活躍專案。 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "spring-projects/spring-integration",
@@ -417,7 +417,7 @@
       "description": "Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1623★，成長穩定，值得關注。 Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP) 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "NationalSecurityAgency/datawave",
@@ -430,7 +430,7 @@
       "description": "DataWave is an ingest/query framework that leverages Apache Accumulo to provide fast, secure data access.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 674★，屬於中小型活躍專案。 DataWave is an ingest/query framework that leverages Apache Accumulo to provide fast, secure data access. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "CleanroomMC/Cleanroom",
@@ -443,7 +443,7 @@
       "description": "Cleanroom Minecraft.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 554★，屬於中小型活躍專案。 Cleanroom Minecraft. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "ReaJason/MemShellParty",
@@ -456,7 +456,7 @@
       "description": "一款专注于 Java 主流 Web 中间件的内存马快速生成工具，致力于简化安全研究人员和红队成员的工作流程，提升攻防效率",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1385★，成長穩定，值得關注。 一款专注于 Java 主流 Web 中间件的内存马快速生成工具，致力于简化安全研究人员和红队成员的工作流程，提升攻防效率 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "dylibso/chicory",
@@ -469,7 +469,7 @@
       "description": "Native JVM WebAssembly runtime",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1039★，成長穩定，值得關注。 Native JVM WebAssembly runtime 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "iflytek/astron-rpa",
@@ -482,7 +482,7 @@
       "description": "Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 7391★，社群規模大，影響力高。 Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "helge17/tuxguitar",
@@ -495,7 +495,7 @@
       "description": "Open source guitar tablature editor",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1183★，成長穩定，值得關注。 Open source guitar tablature editor 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "future0923/debug-tools",
@@ -508,7 +508,7 @@
       "description": "热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl, Groovy.）",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 244★，屬於中小型活躍專案。 热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl, Groovy.） 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "spring-ai-alibaba/spring-ai-extensions",
@@ -521,7 +521,7 @@
       "description": "",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 107★，屬於中小型活躍專案。 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "LianjiaTech/bella-openapi",
@@ -534,7 +534,7 @@
       "description": "Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天��全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集成了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 215★，屬於中小型活躍專案。 Bella OpenAPI是一个提供了丰富的AI调用能力的API网关，可类比openrouter，与之不同的是除了提供聊天��全(chat-completion)能力外，还提供了文本向量化(text-embedding)、语音识别(ASR)、语音合成(TTS)、文生图、图生图等多种AI能力，同时集成了计费、限流和资源管理功能。且集成的所有能力都经过了大规模生产环境的验证。 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "cibseven/cibseven",
@@ -547,7 +547,7 @@
       "description": "CIB seven main source code repository",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 118★，屬於中小型活躍專案。 CIB seven main source code repository 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/flink-agents",
@@ -560,7 +560,7 @@
       "description": "Flink Agents is an Agentic AI framework based on Apache Flink",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 338★，屬於中小型活躍專案。 Flink Agents is an Agentic AI framework based on Apache Flink 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/hudi",
@@ -573,7 +573,7 @@
       "description": "Upserts, Deletes And Incremental Processing on Big Data.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 6125★，社群規模大，影響力高。 Upserts, Deletes And Incremental Processing on Big Data. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/fory",
@@ -586,7 +586,7 @@
       "description": "A blazingly fast multi-language serialization framework powered by JIT and zero-copy.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 4287★，社群規模大，影響力高。 A blazingly fast multi-language serialization framework powered by JIT and zero-copy. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/hbase",
@@ -599,7 +599,7 @@
       "description": "Apache HBase",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 5581★，社群規模大，影響力高。 Apache HBase 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/calcite",
@@ -612,7 +612,7 @@
       "description": "Apache Calcite",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 5103★，社群規模大，影響力高。 Apache Calcite 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "firebase/firebase-android-sdk",
@@ -625,7 +625,7 @@
       "description": "Firebase Android SDK",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2501★，成長穩定，值得關注。 Firebase Android SDK 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "wso2/product-is",
@@ -638,7 +638,7 @@
       "description": "Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 844★，屬於中小型活躍專案。 Welcome to the WSO2 Identity Server source code! For info on working with the WSO2 Identity Server repository and contributing code, click the link below. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "wso2/product-apim",
@@ -651,7 +651,7 @@
       "description": "Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 975★，屬於中小型活躍專案。 Welcome to the WSO2 API Manager source code! For info on working with the WSO2 API Manager repository and contributing code, click the link below. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "bramp/ffmpeg-cli-wrapper",
@@ -664,7 +664,7 @@
       "description": "Java wrapper around the FFmpeg command line tool",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1889★，成長穩定，值得關注。 Java wrapper around the FFmpeg command line tool 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/ozone",
@@ -677,7 +677,7 @@
       "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1186★，成長穩定，值得關注。 Scalable, reliable, distributed storage system optimized for data analytics and object store workloads. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/solr",
@@ -690,7 +690,7 @@
       "description": "Apache Solr open-source search software",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1595★，成長穩定，值得關注。 Apache Solr open-source search software 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "microsoft/ApplicationInsights-Java",
@@ -703,7 +703,7 @@
       "description": "Application Insights for Java",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 320★，屬於中小型活躍專案。 Application Insights for Java 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "dogtagpki/pki",
@@ -716,7 +716,7 @@
       "description": "The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 483★，屬於中小型活躍專案。 The Dogtag Certificate System is an enterprise-class Certificate Authority (CA) which supports all aspects of certificate lifecycle management, including key archival, OCSP and smartcard management. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "deephaven/deephaven-core",
@@ -729,7 +729,7 @@
       "description": "Deephaven Community Core",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 345★，屬於中小型活躍專案。 Deephaven Community Core 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "temporalio/sdk-java",
@@ -742,7 +742,7 @@
       "description": "Temporal Java SDK",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 359★，屬於中小型活躍專案。 Temporal Java SDK 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "DIGI-UW/OpenELIS-Global-2",
@@ -755,7 +755,7 @@
       "description": "This is the core repo for OpenELIS global v3",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 208★，屬於中小型活躍專案。 This is the core repo for OpenELIS global v3 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "lsfusion/platform",
@@ -768,7 +768,7 @@
       "description": "lsFusion is an extremely declarative open-source language-based platform for information systems development ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 203★，屬於中小型活躍專案。 lsFusion is an extremely declarative open-source language-based platform for information systems development 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "microcks/microcks",
@@ -781,7 +781,7 @@
       "description": "The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1844★，成長穩定，值得關注。 The open source, cloud native tool for API Mocking and Testing. Microcks is a Cloud Native Computing Foundation sandbox project 🚀 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "vaadin/hilla",
@@ -794,7 +794,7 @@
       "description": "Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 980★，屬於中小型活躍專案。 Build better business applications, faster. No more juggling REST endpoints or deciphering GraphQL queries. Hilla seamlessly connects Spring Boot and React to accelerate application development. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "typetools/checker-framework",
@@ -807,7 +807,7 @@
       "description": "Pluggable type-checking for Java",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1135★，成長穩定，值得關注。 Pluggable type-checking for Java 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "xtclang/xvm",
@@ -820,7 +820,7 @@
       "description": "Ecstasy and XVM",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 210★，屬於中小型活躍專案。 Ecstasy and XVM 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "ReChronoRain/HyperCeiler",
@@ -833,7 +833,7 @@
       "description": "HyperOS enhancement module - Make HyperOS Great Again!",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 4557★，社群規模大，影響力高。 HyperOS enhancement module - Make HyperOS Great Again! 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "epam/ai-dial-core",
@@ -846,7 +846,7 @@
       "description": "The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 658★，屬於中小型活躍專案。 The main component of AI DIAL, which provides unified API to different chat completion and embedding models, assistants, and applications 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Xed-Editor/Xed-Editor",
@@ -859,7 +859,7 @@
       "description": "Advanced Text Editor for Android ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1805★，成長穩定，值得關注。 Advanced Text Editor for Android 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "quik-sms/quik",
@@ -872,7 +872,7 @@
       "description": "The most beautiful SMS messenger for Android - Revived",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2228★，成長穩定，值得關注。 The most beautiful SMS messenger for Android - Revived 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/gravitino",
@@ -885,7 +885,7 @@
       "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2927★，成長穩定，值得關注。 World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "hectorvent/floci",
@@ -898,7 +898,7 @@
       "description": "Light, fluffy, and always free - AWS Local Emulator ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1860★，成長穩定，值得關注。 Light, fluffy, and always free - AWS Local Emulator 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "MojoLauncher/MojoLauncher",
@@ -911,7 +911,7 @@
       "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 414★，屬於中小型活躍專案。 A Minecraft: Java Edition launcher, based on PojavLauncher 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "appdevforall/CodeOnTheGo",
@@ -924,7 +924,7 @@
       "description": "Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All. ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 116★，屬於中小型活躍專案。 Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Open-J-Proxy/ojp",
@@ -937,7 +937,7 @@
       "description": "",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 194★，屬於中小型活躍專案。 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "patryk3211/PowerGrid",
@@ -950,7 +950,7 @@
       "description": "Providing electricity to a world near you.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 118★，屬於中小型活躍專案。 Providing electricity to a world near you. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Querz/mcaselector",
@@ -963,7 +963,7 @@
       "description": "A tool to select chunks from Minecraft worlds for deletion or export.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 4365★，社群規模大，影響力高。 A tool to select chunks from Minecraft worlds for deletion or export. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "androidx/media",
@@ -976,7 +976,7 @@
       "description": "Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2739★，成長穩定，值得關注。 Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "tlaplus/tlaplus",
@@ -989,7 +989,7 @@
       "description": "TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.   ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2845★，成長穩定，值得關注。 TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "aws/aws-sdk-java-v2",
@@ -1002,7 +1002,7 @@
       "description": "The official AWS SDK for Java - Version 2",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2563★，成長穩定，值得關注。 The official AWS SDK for Java - Version 2 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "eclipse-collections/eclipse-collections",
@@ -1015,7 +1015,7 @@
       "description": "Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2624★，成長穩定，值得關注。 Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "odpi/egeria",
@@ -1028,7 +1028,7 @@
       "description": "Egeria core",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 899★，屬於中小型活躍專案。 Egeria core 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "OpenLiberty/open-liberty",
@@ -1041,7 +1041,7 @@
       "description": "Open Liberty is a highly composable, fast to start, dynamic application server runtime environment ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1241★，成長穩定，值得關注。 Open Liberty is a highly composable, fast to start, dynamic application server runtime environment 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "GrapheneOS/Camera",
@@ -1054,7 +1054,7 @@
       "description": "Modern camera app focused on privacy and security with QR & barcode scanning.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1254★，成長穩定，值得關注。 Modern camera app focused on privacy and security with QR & barcode scanning. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "GrapheneOS/PdfViewer",
@@ -1067,7 +1067,7 @@
       "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 922★，屬於中小型活躍專案。 Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "anonfaded/FadCam",
@@ -1080,7 +1080,7 @@
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1682★，成長穩定，值得關注。 Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "umeng/MultiFunctionAndroidDemo",
@@ -1093,7 +1093,7 @@
       "description": "友盟多功能Android Demo",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 404★，屬於中小型活躍專案。 友盟多功能Android Demo 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "gravitee-io/gravitee-api-management",
@@ -1106,7 +1106,7 @@
       "description": "Gravitee.io - OpenSource API Management",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 398★，屬於中小型活躍專案。 Gravitee.io - OpenSource API Management 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "aws-amplify/amplify-android",
@@ -1119,7 +1119,7 @@
       "description": "The fastest and easiest way to use AWS from your Android app.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 282★，屬於中小型活躍專案。 The fastest and easiest way to use AWS from your Android app. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "uyuni-project/uyuni",
@@ -1132,7 +1132,7 @@
       "description": "Source code for Uyuni",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 548★，屬於中小型活躍專案。 Source code for Uyuni 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "jenkinsci/git-plugin",
@@ -1145,7 +1145,7 @@
       "description": "Git repository access for Jenkins jobs",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 688★，屬於中小型活躍專案。 Git repository access for Jenkins jobs 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Canner/wren-engine",
@@ -1158,7 +1158,7 @@
       "description": "The open context engine for AI agents support 15+ data sources. MCP-native. Built on Rust and Apache DataFusion.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 603★，屬於中小型活躍專案。 The open context engine for AI agents support 15+ data sources. MCP-native. Built on Rust and Apache DataFusion. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/gobblin",
@@ -1171,7 +1171,7 @@
       "description": "A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2260★，成長穩定，值得關注。 A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "vaadin/flow",
@@ -1184,7 +1184,7 @@
       "description": "Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 737★，屬於中小型活躍專案。 Vaadin Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "GoogleCloudPlatform/DataflowTemplates",
@@ -1197,7 +1197,7 @@
       "description": "Cloud Dataflow Google-provided templates for solving in-Cloud data tasks",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1289★，成長穩定，值得關注。 Cloud Dataflow Google-provided templates for solving in-Cloud data tasks 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "pgjdbc/pgjdbc",
@@ -1210,7 +1210,7 @@
       "description": "Postgresql JDBC Driver",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1696★，成長穩定，值得關注。 Postgresql JDBC Driver 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "SAP/abap-cleaner",
@@ -1223,7 +1223,7 @@
       "description": "ABAP cleaner applies 100+ cleanup rules to ABAP code at a single keystroke",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 609★，屬於中小型活躍專案。 ABAP cleaner applies 100+ cleanup rules to ABAP code at a single keystroke 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "akto-api-security/akto",
@@ -1236,7 +1236,7 @@
       "description": "Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1455★，成長穩定，值得關注。 Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "neoforged/NeoForge",
@@ -1249,7 +1249,7 @@
       "description": "Neo Modding API for Minecraft: Java Edition, based on Forge",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1851★，成長穩定，值得關注。 Neo Modding API for Minecraft: Java Edition, based on Forge 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "KiltMC/Kilt",
@@ -1262,7 +1262,7 @@
       "description": "A Fabric mod that brings Forge mods into the Fabric ecosystem.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 655★，屬於中小型活躍專案。 A Fabric mod that brings Forge mods into the Fabric ecosystem. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "AidanPark/openclaw-android",
@@ -1275,7 +1275,7 @@
       "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 793★，屬於中小型活躍專案。 Run OpenClaw on Android with a single command — no proot, no Linux 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "operaton/operaton",
@@ -1288,7 +1288,7 @@
       "description": "BPMN-Process automation for everyone ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 377★，屬於中小型活躍專案。 BPMN-Process automation for everyone 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "quarkiverse/quarkus-roq",
@@ -1301,7 +1301,7 @@
       "description": "The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 101★，屬於中小型活躍專案。 The Roq Static Site Generator allows to easily create a static website or blog using Quarkus super-powers. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "wanaku-ai/wanaku",
@@ -1314,7 +1314,7 @@
       "description": "Wanaku MCP Router",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 106★，屬於中小型活躍專案。 Wanaku MCP Router 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "a2aproject/a2a-java",
@@ -1327,7 +1327,7 @@
       "description": "Official Java SDK for the Agent2Agent (A2A) Protocol",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 368★，屬於中小型活躍專案。 Official Java SDK for the Agent2Agent (A2A) Protocol 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "camunda/camunda",
@@ -1340,7 +1340,7 @@
       "description": "Process Orchestration Framework",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 4057★，社群規模大，影響力高。 Process Orchestration Framework 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/pinot",
@@ -1353,7 +1353,7 @@
       "description": "Apache Pinot - A realtime distributed OLAP datastore",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 6051★，社群規模大，影響力高。 Apache Pinot - A realtime distributed OLAP datastore 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "spring-projects/spring-batch",
@@ -1366,7 +1366,7 @@
       "description": "Spring Batch is a framework for writing batch applications using Java and Spring",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2931★，成長穩定，值得關注。 Spring Batch is a framework for writing batch applications using Java and Spring 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Azure/azure-sdk-for-java",
@@ -1379,7 +1379,7 @@
       "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. ",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2560★，成長穩定，值得關注。 This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "opentripplanner/OpenTripPlanner",
@@ -1392,7 +1392,7 @@
       "description": "An open source multi-modal trip planner",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2587★，成長穩定，值得關注。 An open source multi-modal trip planner 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Card-Forge/forge",
@@ -1405,7 +1405,7 @@
       "description": "An unofficial rules engine for the world's greatest card game.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2248★，成長穩定，值得關注。 An unofficial rules engine for the world's greatest card game. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "itext/itext-java",
@@ -1418,7 +1418,7 @@
       "description": "iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2224★，成長穩定，值得關注。 iText for Java represents the next level of SDKs for developers that want to take advantage of the benefits PDF can bring. Equipped with a better document engine, high and low-level programming capabilities and the ability to create, edit and enhance PDF documents, iText can be a boon to nearly every workflow. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "TimefoldAI/timefold-solver",
@@ -1431,7 +1431,7 @@
       "description": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1611★，成長穩定，值得關注。 The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "besu-eth/besu",
@@ -1444,7 +1444,7 @@
       "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1787★，成長穩定，值得關注。 An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/fluss",
@@ -1457,7 +1457,7 @@
       "description": "Apache Fluss is a streaming storage built for real-time analytics.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1832★，成長穩定，值得關注。 Apache Fluss is a streaming storage built for real-time analytics. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "umple/umple",
@@ -1470,7 +1470,7 @@
       "description": "Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems. Save yourself lots of coding. Do it collaboratively online in UmpleOnline, in an IDE or on the command line.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 275★，屬於中小型活躍專案。 Umple: Model-Oriented Programming - embed models in code and vice versa and generate complete systems. Save yourself lots of coding. Do it collaboratively online in UmpleOnline, in an IDE or on the command line. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "cinchapi/concourse",
@@ -1483,7 +1483,7 @@
       "description": "Distributed database warehouse for transactions, search and analytics across time.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 315★，屬於中小型活躍專案。 Distributed database warehouse for transactions, search and analytics across time. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "lf-lang/lingua-franca",
@@ -1496,7 +1496,7 @@
       "description": "Intuitive concurrent programming in any language",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 293★，屬於中小型活躍專案。 Intuitive concurrent programming in any language 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "kroxylicious/kroxylicious",
@@ -1509,7 +1509,7 @@
       "description": "Kroxylicious, the snappy open source proxy for Apache Kafka®",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 261★，屬於中小型活躍專案。 Kroxylicious, the snappy open source proxy for Apache Kafka® 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "googleapis/google-api-java-client-services",
@@ -1522,7 +1522,7 @@
       "description": "Generated Java code for Google APIs",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 717★，屬於中小型活躍專案。 Generated Java code for Google APIs 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "open-telemetry/opentelemetry-java",
@@ -1535,7 +1535,7 @@
       "description": "OpenTelemetry Java SDK",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2375★，成長穩定，值得關注。 OpenTelemetry Java SDK 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "ArcadeData/arcadedb",
@@ -1548,7 +1548,7 @@
       "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 765★，屬於中小型活躍專案。 ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "BentoBoxWorld/BentoBox",
@@ -1561,7 +1561,7 @@
       "description": "Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 392★，屬於中小型活躍專案。 Expandable Minecraft server plugin for island-type games like SkyBlock or AcidIsland. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "trinodb/trino-gateway",
@@ -1574,7 +1574,7 @@
       "description": "",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 249★，屬於中小型活躍專案。 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "hardwood-hq/hardwood",
@@ -1587,7 +1587,7 @@
       "description": "A fast minimal dependency implementation of Apache Parquet",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 226★，屬於中小型活躍專案。 A fast minimal dependency implementation of Apache Parquet 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "datastax/jvector",
@@ -1600,7 +1600,7 @@
       "description": "JVector: the most advanced embedded vector search engine",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1696★，成長穩定，值得關注。 JVector: the most advanced embedded vector search engine 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "MCRcortex/voxy",
@@ -1613,7 +1613,7 @@
       "description": "An LoD rendering mod for minecraft",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 843★，屬於中小型活躍專案。 An LoD rendering mod for minecraft 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/polaris",
@@ -1626,7 +1626,7 @@
       "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1886★，成長穩定，值得關注。 Apache Polaris, the interoperable, open source catalog for Apache Iceberg 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "dedicatedcode/reitti",
@@ -1639,7 +1639,7 @@
       "description": "Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name \"Reitti\" comes from Finnish, meaning \"route\" or \"path\".",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1957★，成長穩定，值得關注。 Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name \"Reitti\" comes from Finnish, meaning \"route\" or \"path\". 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "grimmory-tools/grimmory",
@@ -1652,7 +1652,7 @@
       "description": "Grimmory is the successor of booklore.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1665★，成長穩定，值得關注。 Grimmory is the successor of booklore. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "OpenIntegrationEngine/engine",
@@ -1665,7 +1665,7 @@
       "description": "An open source fork of the now closed-source Mirth Connect.   Installers for the engine are in this repository.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 166★，屬於中小型活躍專案。 An open source fork of the now closed-source Mirth Connect.   Installers for the engine are in this repository. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "agentscope-ai/agentscope-java",
@@ -1678,7 +1678,7 @@
       "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2232★，成長穩定，值得關注。 AgentScope Java: Agent-Oriented Programming for Building LLM Applications 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "tamboui/tamboui",
@@ -1691,7 +1691,7 @@
       "description": "A Java library for building modern terminal user interfaces.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 367★，屬於中小型活躍專案。 A Java library for building modern terminal user interfaces. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "1Panel-dev/CordysCRM",
@@ -1704,7 +1704,7 @@
       "description": "🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权��已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1971★，成長穩定，值得關注。 🔥 Cordys CRM 是新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权��已发布 CRM Skills ，赋能 OpenClaw AI 助理 7×24 小时智能服务。 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "MorpheApp/morphe-patches",
@@ -1717,7 +1717,7 @@
       "description": "Morphe Patches",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1437★，成長穩定，值得關注。 Morphe Patches 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "assertj/assertj",
@@ -1730,7 +1730,7 @@
       "description": "Fluent testing assertions for Java and the JVM",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2819★，成長穩定，值得關注。 Fluent testing assertions for Java and the JVM 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "crimera/piko",
@@ -1743,7 +1743,7 @@
       "description": "morphe patches for twitter",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2916★，成長穩定，值得關注。 morphe patches for twitter 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/hugegraph",
@@ -1756,7 +1756,7 @@
       "description": "A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 3000★，社群規模大，影響力高。 A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/fesod",
@@ -1769,7 +1769,7 @@
       "description": "Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 5901★，社群規模大，影響力高。 Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "unitycatalog/unitycatalog",
@@ -1782,7 +1782,7 @@
       "description": "Open, Multi-modal Catalog for Data & AI",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 3341★，社群規模大，影響力高。 Open, Multi-modal Catalog for Data & AI 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "OpenEMS/openems",
@@ -1795,7 +1795,7 @@
       "description": "OpenEMS - Open Source Energy Management System",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1325★，成長穩定，值得關注。 OpenEMS - Open Source Energy Management System 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "open-telemetry/opentelemetry-java-instrumentation",
@@ -1808,7 +1808,7 @@
       "description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 2489★，成長穩定，值得關注。 OpenTelemetry auto-instrumentation and instrumentation libraries for Java 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Dev4Mod/WaEnhancer",
@@ -1821,7 +1821,7 @@
       "description": "WhatsApp tools for Android",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1317★，成長穩定，值得關注。 WhatsApp tools for Android 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "google/adk-java",
@@ -1834,7 +1834,7 @@
       "description": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1401★，成長穩定，值得關注。 An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Minecraft-Radiance/Radiance",
@@ -1847,7 +1847,7 @@
       "description": "Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 891★，屬於中小型活躍專案。 Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows & Linux. Break free from OpenGL limits for Minecraft. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "magento/magento2-phpstorm-plugin",
@@ -1860,7 +1860,7 @@
       "description": "PHPStorm Plugin for Magento 2",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 456★，屬於中小型活躍專案。 PHPStorm Plugin for Magento 2 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "palantir/gradle-baseline",
@@ -1873,7 +1873,7 @@
       "description": "A set of Gradle plugins that configure default code quality tools for developers.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 340★，屬於中小型活躍專案。 A set of Gradle plugins that configure default code quality tools for developers. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "georgewfraser/java-language-server",
@@ -1886,7 +1886,7 @@
       "description": "Java language server using the Java compiler API",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 779★，屬於中小型活躍專案。 Java language server using the Java compiler API 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "hoo-dles/morphe-patches",
@@ -1899,7 +1899,7 @@
       "description": "🍃 Patches for Morphe",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 228★，屬於中小型活躍專案。 🍃 Patches for Morphe 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "eddyizm/tempus",
@@ -1912,7 +1912,7 @@
       "description": "An open source and lightweight music client for Subsonic, designed and built natively for Android.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 781★，屬於中小型活躍專案。 An open source and lightweight music client for Subsonic, designed and built natively for Android. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "TeamNewPipe/NewPipe",
@@ -1925,7 +1925,7 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 37667★，社群規模大，影響力高。 A libre lightweight streaming front-end for Android. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "Igalia/wolvic",
@@ -1938,7 +1938,7 @@
       "description": "A fast and secure browser for standalone virtual-reality and augmented-reality headsets.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 937★，屬於中小型活躍專案。 A fast and secure browser for standalone virtual-reality and augmented-reality headsets. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "CatimaLoyalty/Android",
@@ -1951,7 +1951,7 @@
       "description": "Catima, a Loyalty Card & Ticket Manager for Android",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1538★，成長穩定，值得關注。 Catima, a Loyalty Card & Ticket Manager for Android 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "bitcoinj/bitcoinj",
@@ -1964,7 +1964,7 @@
       "description": "A library for working with Bitcoin",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 5212★，社群規模大，影響力高。 A library for working with Bitcoin 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "libgdx/libgdx",
@@ -1977,7 +1977,7 @@
       "description": "Desktop/Android/HTML5/iOS Java game development framework",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 24951★，社群規模大，影響力高。 Desktop/Android/HTML5/iOS Java game development framework 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "apache/beam",
@@ -1990,7 +1990,7 @@
       "description": "Apache Beam is a unified programming model for Batch and Streaming data processing.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "已獲得 8528★，社群規模大，影響力高。 Apache Beam is a unified programming model for Batch and Streaming data processing. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "spring-projects-experimental/spring-boot-migrator",
@@ -2003,7 +2003,7 @@
       "description": "Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 494★，屬於中小型活躍專案。 Spring Boot Migrator (SBM) is a tool for automated code migrations to upgrade or migrate to Spring Boot 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "anakettl/hangar",
@@ -2016,7 +2016,7 @@
       "description": "A Stock Manager",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 1★，屬於中小型活躍專案。 A Stock Manager 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "SasanLabs/VulnerableApp",
@@ -2029,7 +2029,7 @@
       "description": "OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 378★，屬於中小型活躍專案。 OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts. 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "spring-ai-alibaba/DataAgent",
@@ -2042,7 +2042,7 @@
       "description": "Spring AI Alibaba DataAgent",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "目前有 1528★，成長穩定，值得關注。 Spring AI Alibaba DataAgent 開放 issue 較多，貢獻空間大。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "uPortal-Project/uPortal",
@@ -2055,7 +2055,7 @@
       "description": "Enterprise open source portal built by and for the higher education community.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 282★，屬於中小型活躍專案。 Enterprise open source portal built by and for the higher education community. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "canonical/devpack-for-spring-cli",
@@ -2068,7 +2068,7 @@
       "description": "Devpack for Spring command line interface application.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "Devpack for Spring command line interface application. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "bos-com/GreenCode",
@@ -2081,7 +2081,7 @@
       "description": "GreenCode: Empowering sustainable agriculture through ICT, innovation, and digital solutions for smarter learning farming",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "GreenCode: Empowering sustainable agriculture through ICT, innovation, and digital solutions for smarter learning farming 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     },
     {
       "full_name": "geoserver/geoserver-cloud",
@@ -2094,7 +2094,7 @@
       "description": "GeoServer Cloud offers ready to use Spring Boot Apps provided for cloud use as dockerized microservices.",
       "hot_issues_summary": "",
       "readme_snippet": "",
-      "recommendation": ""
+      "recommendation": "星數 305★，屬於中小型活躍專案。 GeoServer Cloud offers ready to use Spring Boot Apps provided for cloud use as dockerized microservices. 維護節奏需觀察，建議先讀 README 與貢獻指南。 建議切入：先閱讀 README/CONTRIBUTING，尋找標有 help wanted 或 good first issue 的議題作為起點。"
     }
   ]
 }
