@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T06:52:52.965Z",
+  "lastUpdated": "2026-04-06T06:54:38.391Z",
   "totalSeen": 369,
   "recommendations": [
     {
@@ -11,12 +11,12 @@
       "profile": "Java newer (created 2023+)",
       "date": "2026-04-06",
       "source_description": "An LLM extension for Ghidra to enable AI assistance in RE.",
-      "description": "An LLM extension for Ghidra to enable AI assistance in RE.",
-      "telegram_description": "An LLM extension for Ghidra to enable AI assistance in RE.",
+      "description": "GhidrAssist 是 Ghidra 的 LLM 擴充套件，讓逆向工程流程可以直接接上 AI 助手，用來輔助程式理解、分析與互動式 RE。",
+      "telegram_description": "GhidrAssist 是 Ghidra 的 LLM 擴充套件，讓逆向工程流程可以直接接上 AI 助手，用來輔助程式理解、分析與互動式 RE。",
       "hot_issues_summary": "Add OpenAI Compatible API endpoints to OpenWebUi API Provider",
       "readme_snippet": "# GhidrAssist\nAuthor: **Jason Tang**\n\n_An advanced LLM-powered plugin for interactive reverse engineering assistance in Ghidra._\n\n## Description\n\nGhidrAssist integrates Large Language Models (LLMs) in",
-      "recommendation": "",
-      "telegram_recommendation": ""
+      "recommendation": "Ghidra + LLM 的整合切點很明確，issue 也集中在 provider/API 相容性，適合熟悉逆向工具鏈或 AI 整合的開發者快速切入。",
+      "telegram_recommendation": "Ghidra + LLM 的整合切點很明確，issue 也集中在 provider/API 相容性，適合熟悉逆向工具鏈或 AI 整合的開發者快速切入。"
     },
     {
       "full_name": "wushuo894/ani-rss",
@@ -27,12 +27,12 @@
       "profile": "Java newer (created 2023+)",
       "date": "2026-04-06",
       "source_description": "基于RSS自动追番、订阅、下载、刮削",
-      "description": "基于RSS自动追番、订阅、下载、刮削",
-      "telegram_description": "基于RSS自动追番、订阅、下载、刮削",
+      "description": "ANI-RSS 是一套用 RSS 自動追番、訂閱、下載與刮削的工具，目標很實用，偏向媒體自動化與整理流程。",
+      "telegram_description": "ANI-RSS 是一套用 RSS 自動追番、訂閱、下載與刮削的工具，目標很實用，偏向媒體自動化與整理流程。",
       "hot_issues_summary": "添加视频归一化. 使用ffmpeg将视频二次编码并存储.; 新增 FFmpeg 转码功能; 重命名模板增加罗马音",
       "readme_snippet": "<div align=\"center\">\n<img alt=\"icon-512.png\" height=\"80\" src=\"ani-rss-ui/public/icon-512.png\"/>\n<h1 align=\"center\" style=\"margin-top: 0\">ANI-RSS</h1>\n<p align=\"center\">\n<strong>基于RSS自动追番、订阅、下载、刮削</str",
-      "recommendation": "",
-      "telegram_recommendation": ""
+      "recommendation": "近期 issue 集中在 FFmpeg 轉碼、命名模板與媒體處理流程，功能回饋快，適合喜歡自動化與影音處理整合的貢獻者。",
+      "telegram_recommendation": "近期 issue 集中在 FFmpeg 轉碼、命名模板與媒體處理流程，功能回饋快，適合喜歡自動化與影音處理整合的貢獻者。"
     },
     {
       "full_name": "petoncle/mousemaster",
@@ -43,12 +43,12 @@
       "profile": "Java newer (created 2023+)",
       "date": "2026-04-06",
       "source_description": "Mouseless mouse control and advanced keyboard customization.",
-      "description": "Mouseless mouse control and advanced keyboard customization.",
-      "telegram_description": "Mouseless mouse control and advanced keyboard customization.",
+      "description": "mousemaster 提供無滑鼠操作與進階鍵盤自訂，讓使用者用鍵盤完成滑鼠移動與操作，偏向桌面效率工具。",
+      "telegram_description": "mousemaster 提供無滑鼠操作與進階鍵盤自訂，讓使用者用鍵盤完成滑鼠移動與操作，偏向桌面效率工具。",
       "hot_issues_summary": "Some insights after testing; Feature request: more modes, or a throttle; Suggest: Add Solution for \"vcruntime140_1.dll Not Found\" Error to README",
       "readme_snippet": "# mousemaster\n\n<a href=\"https://discord.gg/GSB6MaKb2R\"><img src=\"https://img.shields.io/discord/854326924402622474?color=%235865F2&label=discord\" alt=\"Join Discord Chat\"></a>\n\n- Keyboard driven mousel",
-      "recommendation": "",
-      "telegram_recommendation": ""
+      "recommendation": "專案聚焦在輸入體驗與桌面操作，issue 多是模式設計、節流與相容性細節，適合想做 UX/輸入工具優化的開發者。",
+      "telegram_recommendation": "專案聚焦在輸入體驗與桌面操作，issue 多是模式設計、節流與相容性細節，適合想做 UX/輸入工具優化的開發者。"
     },
     {
       "full_name": "PBH-BTN/PeerBanHelper",
@@ -59,12 +59,12 @@
       "profile": "Java newer (created 2023+)",
       "date": "2026-04-06",
       "source_description": "Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet",
-      "description": "Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet",
-      "telegram_description": "Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet",
+      "description": "PeerBanHelper 是 BT 反吸血工具，用來自動封鎖不受歡迎、吸血或異常的 BT peers，並支援自訂與雲端規則。",
+      "telegram_description": "PeerBanHelper 是 BT 反吸血工具，用來自動封鎖不受歡迎、吸血或異常的 BT peers，並支援自訂與雲端規則。",
       "hot_issues_summary": "Python 脚本引擎 支持; Native MTR 支持; [Other] 改进 PBH 的 GUI 界面，显示更多有用的内容",
       "readme_snippet": "# PeerBanHelper\n[English](./README.EN.md)\n\n自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。\n\n![page-views](https://raw.githubusercontent.com/PBH-BTN/views-counter/refs/heads/master/svg/754169590/badge.svg)\n\n**在安装前试用 ",
-      "recommendation": "",
-      "telegram_recommendation": ""
+      "recommendation": "規則引擎、GUI 改善與原生網路診斷都是高價值切點，對熟悉 P2P、桌面工具或規則系統的貢獻者很有發揮空間。",
+      "telegram_recommendation": "規則引擎、GUI 改善與原生網路診斷都是高價值切點，對熟悉 P2P、桌面工具或規則系統的貢獻者很有發揮空間。"
     },
     {
       "full_name": "OpenFeign/querydsl",
@@ -75,12 +75,12 @@
       "profile": "Java newer (created 2023+)",
       "date": "2026-04-06",
       "source_description": "Unified Queries for Java",
-      "description": "Unified Queries for Java",
-      "telegram_description": "Unified Queries for Java",
+      "description": "OpenFeign/querydsl 是 Java 的統一查詢 DSL 專案，主要聚焦在 JPA/型別安全查詢的核心能力與相容性。",
+      "telegram_description": "OpenFeign/querydsl 是 Java 的統一查詢 DSL 專案，主要聚焦在 JPA/型別安全查詢的核心能力與相容性。",
       "hot_issues_summary": "JPA #fetchOne returns invalid results; Add sumDouble, sumLong, sumBigDecimal, and sumBigInteger to NumberExpression for forward compatibility with Querydsl 6+; Build(deps): Bump org.openrewrite.recipe:rewrite-migrate-java from 3.31.1 to 3.31.3",
       "readme_snippet": "[![CircleCI](https://dl.circleci.com/status-badge/img/gh/OpenFeign/querydsl/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/OpenFeign/querydsl/tree/master) [![codecov](htt",
-      "recommendation": "",
-      "telegram_recommendation": ""
+      "recommendation": "雖然 issue 不多，但都很核心，像是 JPA 查詢正確性與 Java 相容性升級，適合熟悉 ORM、查詢模型與 Java API 設計的貢獻者。",
+      "telegram_recommendation": "雖然 issue 不多，但都很核心，像是 JPA 查詢正確性與 Java 相容性升級，適合熟悉 ORM、查詢模型與 Java API 設計的貢獻者。"
     },
     {
       "full_name": "apache/zeppelin",
