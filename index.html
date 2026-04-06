@@ -39,22 +39,14 @@
             </div>
             ${repo.profile ? `<span class="card-profile">${escapeHtml(repo.profile)}</span>` : ''}
           </div>
+          ${syncedDescription ? `<div class="card-desc">${escapeHtml(syncedDescription)}</div>` : ''}
           <div class="card-meta">
             <span>⭐ ${repo.stars?.toLocaleString() ?? '—'}</span>
             <span>🐛 ${repo.open_issues?.toLocaleString() ?? '—'}</span>
             <span>📅 ${formatDate(repo.created_at)}</span>
             ${repo.date ? `<span>🔄 ${repo.date}</span>` : ''}
           </div>
-          ${syncedDescription ? `
-            <div class="card-section">
-              <div class="card-section-label">📝 Telegram 同步專案說明</div>
-              <div class="card-desc">${escapeHtml(syncedDescription)}</div>
-            </div>` : ''}
-          ${syncedRecommendation ? `
-            <div class="card-section card-section-highlight">
-              <div class="card-section-label">💡 Telegram 同步推薦理由</div>
-              <div class="card-recommendation">${escapeHtml(syncedRecommendation)}</div>
-            </div>` : ''}
+          ${syncedRecommendation ? `<div class="card-recommendation">💡 ${escapeHtml(syncedRecommendation)}</div>` : ''}
         </div>`;
     }
 
@@ -69,8 +61,7 @@
         const stats = document.getElementById('stats');
         stats.innerHTML = `
           <div class="stat-badge">📦 <strong>${data.recommendations.length}</strong> repos curated</div>
-          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>
-          <div class="stat-badge">🔄 <strong>Telegram Sync</strong> 網站文字與推送內容一致</div>`;
+          <div class="stat-badge">🔍 <strong>${data.totalSeen?.toLocaleString() ?? '—'}</strong> repos scanned</div>`;
 
         const grid = document.getElementById('cards-grid');
         if (!data.recommendations || data.recommendations.length === 0) {
